@@ -1,0 +1,103 @@
+Audio file 
+
+Log_1.mp4 
+
+ 
+
+Transcript 
+
+00:00:01 Speaker 1 
+
+This is the first log. 
+
+00:00:04 Speaker 1 
+
+It has occurred to me that a back jointed knee provides more stability than a regular forward facing knee terms of human. 
+
+00:00:14 Speaker 1 
+
+So for my robot I'll be dismantling. 
+
+00:00:34 Speaker 1 
+
+I'll be dismantling Winston here to build it. 
+
+00:00:41 Speaker 1 
+
+Yeah, the legs will be back during third would be a single. 
+
+00:00:47 Speaker 1 
+
+Cuboid at the start for the brain for the  
+
+00:00:53 Speaker 1 
+
+Conversation and the chat 
+
+00:00:54 Speaker 1 
+
+Bot to work. 
+
+00:00:58 Speaker 1 
+
+It occurs to me that it must have a gyro, but. 
+
+00:01:04 Speaker 1 
+
+I don't think I can connect onto an arduino. 
+
+00:01:10 Speaker 1 
+
+In the meantime, well. 
+
+00:01:13 Speaker 1 
+
+School starts on Tuesday. 
+
+00:01:16 Speaker 1 
+
+So I guess I have to collect my Arduino soon. 
+
+00:01:22 Speaker 1 
+
+In the meantime, I'll start building the chassis from Winston. 
+
+00:01:27 Speaker 1 
+
+There's the main chassis itself and the legs. 
+
+00:01:32 Speaker 1 
+
+After that we might see. 
+
+00:01:35 Speaker 1 
+
+Anyways, the time now is 1305. 
+
+00:01:42 Speaker 1 
+
+So yeah. 
+
+00:01:52 Speaker 1 
+
+And I think in school for robotics after I fell. 
+
+00:02:00 Speaker 1 
+
+I think I'll try to get. 
+
+00:02:03 Speaker 1 
+
+Approval to do a project to try and build the bipedal robot. 
+
+00:02:07 Speaker 1 
+
+This one would be powered by Spike, which already has its own gyro, so that wouldn't be a problem. 
+
+00:02:16 Speaker 1 
+
+Well, now it's. 
+
+00:02:21 Speaker 1 
+
+It is 1305 

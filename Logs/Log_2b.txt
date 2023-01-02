@@ -1,0 +1,97 @@
+Audio file 
+Log_2a.mp4 
+ 
+Transcript 
+00:00:01 Speaker 1 
+This is log 2. 
+00:00:04 Speaker 1 
+Time now it is Saturday, December 31st, 2022. Time now is 2303 and this is the second log 
+00:00:18 Speaker 1 
+I found out that I cannot use my mic block Winston. 
+00:00:22 Speaker 1 
+I cannot dismantle him. 
+00:00:25 Speaker 1 
+To build. 
+00:00:27 Speaker 1 
+The next robot. 
+00:00:30 Speaker 1 
+And not only has the encoder motors which do not fit inside the main, the body of the robot, which I'm going to refer to as B8A. 
+00:00:44 Speaker 1 
+From the design you can see the main. 
+00:00:46 Speaker 1 
+There's the brain, and then there's a small chassis, which is where the gyro go. 
+00:00:51 Speaker 1 
+I could theoretically install the two encoder motors there at the pile. 
+00:00:55 Speaker 1 
+The legs in general, but then at the backwards knee joint. 
+00:01:00 Speaker 1 
+There is not enough space in order to build, but an encoder motor, so the Mcblock will not work. 
+00:01:07 Speaker 1 
+I have already assembled this stuff. 
+00:01:10 Speaker 1 
+What I need for? 
+00:01:13 Speaker 1 
+To use it for an Arduino along with. 
+00:01:18 Speaker 1 
+Additionally, those parts are also the parts that I require to create the conversation, chat bot and the microphones. 
+00:01:27 Speaker 1 
+Additionally, there's a camera in there for the future. 
+00:01:30 Speaker 1 
+When I want to install the ability for. 
+00:01:34 Speaker 1 
+The robot to look around and see. 
+00:01:40 Speaker 1 
+Who is the one who made it? 
+00:01:42 Speaker 1 
+And so that the conversations will feel more two way. 
+00:01:47 Speaker 1 
+So if you talk to say, you talk to a robot. 
+00:01:52 Speaker 1 
+The robot will be looking back at you when it talks. 
+00:01:54 Speaker 1 
+When it replies, instead of facing away. 
+00:02:02 Speaker 1 
+So I have a list of the hardware I require. 
+00:02:05 Speaker 1 
+I don't have the hardware yet, however. 
+00:02:10 Speaker 1 
+I do I have something on the software part, so that's parts good. 
+00:02:22 Speaker 1 
+So while I await the approval not to get the hardware. 
+00:02:29 Speaker 1 
+I'll build the software. 
+00:02:32 Speaker 1 
+For the chats conversations. 
+00:02:38 Speaker 1 
+And that's about it. 
+00:02:40 Speaker 1 
+Additionally, I have images of what a backward a backward facing knee when moving would look like, so I'll also make my calculations. 
+00:02:52 Speaker 1 
+Based on that. 
+00:02:54 Speaker 1 
+Then once I do get server motors, which is what I'll be using to power the. 
+00:03:01 Speaker 1 
+Legs, as they are a lot more smaller and. 
+00:03:05 Speaker 1 
+That allows them to be a lot more compact. 
+00:03:06 Speaker 1 
+They'll fit inside. 
+00:03:07 Speaker 1 
+The knee joint. 
+00:03:09 Speaker 1 
+Once I get that, I can calculate the angle required to create the movement. 
+00:03:18 Speaker 1 
+I can't use one where I'll just keep on rotating and then it will go up and. 
+00:03:21 Speaker 1 
+Down based on that. 
+00:03:25 Speaker 1 
+Otherwise, it won't fare too well on uneven terrain like a slope or stairs, for example. 
+00:03:35 Speaker 1 
+So well. 
+00:03:37 Speaker 1 
+That's a roadblock for Project BD-1. 
+00:03:41 Speaker 1 
+Time now is 
+00:03:42 Speaker 1 
+2306 
+ 

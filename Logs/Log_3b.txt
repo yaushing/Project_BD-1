@@ -1,0 +1,53 @@
+Audio file 
+
+Log_3a.mp4 
+
+ 
+
+Transcript 
+
+00:00:02 Speaker 1 
+
+Its first January 2023. 
+
+00:00:07 Speaker 1 
+
+The time now is 1522. 
+
+00:00:13 Speaker 1 
+
+1523 in this the third log. 
+
+00:00:16 Speaker 1 
+
+For project BD1. 
+
+00:00:23 Speaker 1 
+
+Tensor flow IO is not supported on. 
+
+00:00:27 Speaker 1 
+
+The apple N1, which means that my code on my laptop isn't natively supported, so I have to find a work around to find out how to download Tensorflow IO. 
+
+00:00:42 Speaker 1 
+
+Even that we have had no progress other than I have successfully managed. 
+
+00:00:50 Speaker 1 
+
+To import the other models such as TQM and Scipy in the correct manner, I have located the actual README that I have. 
+
+00:01:02 Speaker 1 
+
+And I've done more research on the chassis. 
+
+00:01:06 Speaker 1 
+
+It's pretty small. 
+
+00:01:15 Speaker 1 
+
+The time now is 1524. 
+
+ 

@@ -1,0 +1,117 @@
+Audio file 
+
+Log_5a.mp4 
+
+ 
+
+Transcript 
+
+00:00:00 Speaker 1 
+
+This is, I think the 6th log. It is the 2nd of January 2023. Time now is 1232. 
+
+00:00:10 Speaker 1 
+
+All of the files have been transferred to the Windows PC. 
+
+00:00:14 Speaker 1 
+
+And preliminary tests indicates it is good to go. 
+
+00:00:20 Speaker 1 
+
+It has generated the training data and it's now training the model. 
+
+00:00:23 Speaker 1 
+
+So yeah, fingers crossed. 
+
+00:00:27 Speaker 1 
+
+Well, I've managed to build the translation. 
+
+00:00:38 Speaker 1 
+
+So alright hello world just to show. 
+
+00:00:52 Speaker 1 
+
+It's not the nicest to hear, but it works, so I'm keeping it. 
+
+00:01:01 Speaker 1 
+
+Yeah, I still haven't bought the hardware yet. 
+
+00:01:05 Speaker 1 
+
+ESP does kits. 
+
+00:01:08 Speaker 1 
+
+But well. 
+
+00:01:11 Speaker 1 
+
+Tensor flow is working so fast now train. 
+
+00:01:16 Speaker 1 
+
+So I guess it works. 
+
+00:01:19 Speaker 1 
+
+I think I have. 
+
+00:01:20 Speaker 1 
+
+I think I'm gonna have to add this as a repo to my GitHub. 
+
+00:01:26 Speaker 1 
+
+But I'm not going to do that yet. 
+
+00:01:28 Speaker 1 
+
+I'll only do it once the project is done or has had some success. 
+
+00:01:39 Speaker 1 
+
+I still have to. 
+
+00:01:41 Speaker 1 
+
+Build it. 
+
+00:01:43 Speaker 1 
+
+Build the models. 
+
+00:01:47 Speaker 1 
+
+Then I'll have to upload all the code. 
+
+00:01:53 Speaker 1 
+
+Plus change it all. 
+
+00:02:01 Speaker 1 
+
+The code to change it to beeps and boops is all in Python. 
+
+00:02:06 Speaker 1 
+
+So I don't know how I'm going to transfer it to C#. C++. 
+
+00:02:10 Speaker 1 
+
+But it should work. 
+
+00:02:15 Speaker 1 
+
+Jordan is the 2nd of January 2023. 
+
+00:02:20 Speaker 1 
+
+Time now is 1234. 
+
+ 
