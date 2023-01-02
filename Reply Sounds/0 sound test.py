@@ -10,7 +10,6 @@ for letter in text:
                 playsound(letter.lower() + ".mp3")
         elif letter.isnumeric():
                 playsound(letter + ".mp3")
-                continue
         elif letter == " ":
                 time.sleep(0.1)
         elif letter == ",":
