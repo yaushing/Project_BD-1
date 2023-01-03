@@ -7,7 +7,10 @@ for letter in tqdm(text, "Processing: "):
         time.sleep(0.01)
 for letter in text:
         if letter.isalpha():
-                playsound(letter.lower() + ".mp3")
+                if letter.istitle():
+                        playsound(letter.lower()+"c.mp3")
+                else:
+                        playsound(letter + ".mp3")
         elif letter.isnumeric():
                 playsound(letter + ".mp3")
         elif letter == " ":

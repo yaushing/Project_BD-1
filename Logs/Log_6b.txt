@@ -1,0 +1,85 @@
+Audio file 
+
+Log_6a.mp4 
+
+ 
+
+Transcript 
+
+00:00:00 Speaker 1 
+
+It is the third of. 
+
+00:00:01 Speaker 1 
+
+January 2023 and this. 
+
+00:00:03 Speaker 1 
+
+Is 1526. 
+
+00:00:08 Speaker 1 
+
+So now I'm transferring all of the files to my MacBook from the PC because I no longer require tensor flow IO and the rest of tensor flow is supported natively on the M1 chip. 
+
+00:00:22 Speaker 1 
+
+Tensorflow, matchless. 
+
+00:00:26 Speaker 1 
+
+This will allow me. 
+
+00:00:27 Speaker 1 
+
+To probably call. 
+
+00:00:28 Speaker 1 
+
+During recess, the night school long after winter, get back to continue working on it. 
+
+00:00:34 Speaker 1 
+
+It's just that the spectrogram and all just uploading it back to the. 
+
+00:00:40 Speaker 1 
+
+However, when I do put the training data for the new weight trees, I will have to do all this again. 
+
+00:00:50 Speaker 1 
+
+I've had no progress, almost none since yesterday. 
+
+00:00:55 Speaker 1 
+
+I've managed to generate all the training data which has not been transferred to the Mac, but there's this point in training the model where in fully training the model where the kernel just crashes. 
+
+00:01:11 Speaker 1 
+
+I'm unsure why, but I'll try to do it on my Mac and see whether if it's my PC that's the problem. 
+
+00:01:21 Speaker 1 
+
+I still haven't gotten any of the hardware yet. 
+
+00:01:24 Speaker 1 
+
+So yeah. 
+
+00:01:27 Speaker 1 
+
+Found the method for face recognition. 
+
+00:01:30 Speaker 1 
+
+Got it from my friend. 
+
+00:01:34 Speaker 1 
+
+Very well. 
+
+00:01:39 Speaker 1 
+
+Anyways, time now is 1527. 
+
+ 
