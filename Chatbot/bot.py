@@ -3,10 +3,9 @@ from chatterbot.trainers import ListTrainer
 from cleaner import clean_corpus
 from soundplayer import transsent
 
-
 CORPUS_FILE = "chat.txt"
 
-chatbot = ChatBot("Chatpot")
+chatbot = ChatBot("BD-1")
 
 trainer = ListTrainer(chatbot)
 cleaned_corpus = clean_corpus(CORPUS_FILE)
@@ -18,6 +17,6 @@ while True:
     if query in exit_conditions:
         break
     else:
-        answer = str(chatbot.get_response(query))
-        print(f"🪴 {answer}")
-        transsent(answer)
+        ans = chatbot.get_response(query)
+        print(f"BD-1: {ans}")
+        transsent(str(ans))
