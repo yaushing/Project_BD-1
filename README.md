@@ -1,4 +1,4 @@
-### An offline chatbot with some training data.
+### An offline untrained chatbot with some training data.
 
 <samp>
 
@@ -7,6 +7,13 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 **USE IDLE OR JUPYTER NOTEBOOK TO RUN -- DO NOT USE VS-CODE**
 *I think technically you could use an online compiler but I'm not sure why you would given that the point is for this to be OFFLINE*
 
+## NOTICE
+*Once having started training the training will be stored in the following 3 files: *
+*1. db.sqlite3*
+*2. db.sqlite3-shm*
+*3. db.sqlite3-wal*
+
+*Delete these files to retrain model from scratch (Get rid of unwanted data)*
 **3rd Party Software in files**
 1. chatterbot v1.0.4
 2. chatterbot corpus v1.2.0
