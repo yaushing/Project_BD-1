@@ -4,6 +4,8 @@
 
 Hi there. This is a chatbot template for offline chatbots. Export a whastapp .txt file as chat.txt to get the training data
 
+**USE IDLE OR JUPYTER NOTEBOOK TO RUN -- DO NOT USE VS CODE**
+
 **3rd Party Software in files**
 1. chatterbot v1.0.4
 2. chatterbot corpus v1.2.0
