@@ -526,7 +526,6 @@ def clean_corpus(chat_export_file):
     """Prepare a WhatsApp chat export for training with chatterbot."""
     message_corpus = remove_chat_metadata(chat_export_file)
     cleaned_corpus = remove_non_message_text(message_corpus)
-    print("Cleaned")
     return cleaned_corpus
 
 
