@@ -2,7 +2,7 @@
 
 <samp>
 
-Hi there. This is a chatbot template for offline chatbots. Export a whastapp .txt file into as to get the training data
+Hi there. This is a chatbot template for offline chatbots. Export a whastapp .txt file as chat.txt to get the training data
 
 **3rd Party Software in files**
 1. chatterbot v1.0.4
