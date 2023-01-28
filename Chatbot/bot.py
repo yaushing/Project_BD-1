@@ -1,7 +1,7 @@
-import re, os, sys, doctest
+import re, os, sys, doctest, pyttsx3
+from sys import platform
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
-import pyttsx3
 
 
 # Text to speech vs beeps
@@ -527,7 +527,7 @@ def transsent(sentence):
         for syl in processed_sentence.split(" "):
                 sounds = os.listdir(sdir)
                 if (syl.lower() + ".wav") in sounds:
-                        #play(sdir + syl.lower() + ".wav")
+                        os.system("afplay " + sdir + syl.lower() + ".wav")
                         pass
                 else:
                         sounds = os.listdir(sdirb)
@@ -536,7 +536,7 @@ def transsent(sentence):
                                         oldfdir = f"{sdirb}{sounds[i]}"
                                         newfdir = f"{sdir}{syl.lower()}.wav"
                                         os.rename(oldfdir, newfdir)
-                                        #play(newfdir)
+                                        os.system("afplay " + newfdir)
                                         break
 
 def clean_corpus(chat_export_file):
@@ -617,10 +617,15 @@ while True:
         break
     elif query in swap:
         tts = not tts
-        if tts == False:
-            print("Sorry, beeps aren't working properly")
+        if platform != "darwin" and tts == False:
+            print(f"Beeps aren't working right on {platform}")
             tts = True
-            print(tts)
+        else:
+            print(f"Text to Speech set to {tts}", end = ". ")
+            if tts == False:
+                print("Beeps on")
+            else:
+                print("Beeps off")
     else:
         ans = chatbot.get_response(query)
         print(f"BD-1: {ans}")
