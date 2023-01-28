@@ -39,3 +39,5 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 </samp>
 
 download important files [here](https://download-directory.github.io/?url=https://github.com/yaushing/Project_BD-1/tree/main/Chatbot) Note: Ensure you have python 3.9.12 when you run bot.py. Or have jupyter notebook to run bot.ipynb.
+
+google drive files [here](https://drive.google.com/drive/folders/1n5xFQ4yWR1BsTRHwFPxMJ7VsHFLtDvt1) Note: this includes the Logs
