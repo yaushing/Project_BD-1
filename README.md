@@ -9,11 +9,12 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 
 ## NOTICE
 *Once having started training the training will be stored in the following 3 files:*
+<br/>
 *1. db.sqlite3*
 *2. db.sqlite3-shm*
 *3. db.sqlite3-wal*
-
-*Delete these files to retrain model from scratch (Get rid of unwanted data)*
+<br/>
+*Delete these files to retrain model from scratch (Get rid of unwanted data)*<br/>
 **3rd Party Software in files**
 1. chatterbot v1.0.4
 2. chatterbot corpus v1.2.0
