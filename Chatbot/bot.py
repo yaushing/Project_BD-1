@@ -1,7 +1,20 @@
 import re, os, sys, doctest
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
-from playsound import playsound
+import pyttsx3
+
+
+# Text to speech vs beeps
+tts = True
+
+###############################
+## TEXT TO SPEECH FUNCTIONS ##
+###############################
+
+#####################
+## BEEP FUNCTIONS ##
+#####################
+
 
 # Syllable Splitter 
 class Hyphenator:
@@ -512,7 +525,8 @@ def transsent(sentence):
         for syl in processed_sentence.split(" "):
                 sounds = os.listdir(sdir)
                 if (syl.lower() + ".wav") in sounds:
-                        playsound(sdir + syl.lower() + ".wav")
+                        #play(sdir + syl.lower() + ".wav")
+                        pass
                 else:
                         sounds = os.listdir(sdirb)
                         for i in range(len(sounds)):
@@ -520,7 +534,7 @@ def transsent(sentence):
                                         oldfdir = f"{sdirb}{sounds[i]}"
                                         newfdir = f"{sdir}{syl.lower()}.wav"
                                         os.rename(oldfdir, newfdir)
-                                        playsound(newfdir)
+                                        #play(newfdir)
                                         break
 
 def clean_corpus(chat_export_file):
@@ -594,11 +608,25 @@ cleaned_corpus = clean_corpus(CORPUS_FILE)
 trainer.train(cleaned_corpus)
 
 exit_conditions = (":q", "quit", "exit")
+swap = ("sssyn")
 while True:
     query = input("> ")
     if query in exit_conditions:
         break
+    elif query in swap:
+        tts = not tts
+        if tts == False:
+            print("Sorry, beeps aren't working properly")
+            tts = True
+            print(tts)
     else:
         ans = chatbot.get_response(query)
         print(f"BD-1: {ans}")
-        #transsent(str(ans))
+        if tts == False:
+            transsent(str(ans))
+        else:
+            engine = pyttsx3.init()
+            engine.say(str(ans))
+            engine.runAndWait()
+
+        
