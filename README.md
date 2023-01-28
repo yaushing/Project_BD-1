@@ -1,3 +1,6 @@
+#### The goal is a robot with a chatbot and that can answer commands
+###This is the chatbot readme
+
 ### An offline untrained chatbot with some training data.
 
 <samp>
