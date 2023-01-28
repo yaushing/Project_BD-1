@@ -10,8 +10,8 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 ## NOTICE
 *Once having started training the training will be stored in the following 3 files:*
 <br/>
-*1. db.sqlite3*
-*2. db.sqlite3-shm*
+*1. db.sqlite3*<br/>
+*2. db.sqlite3-shm*<br/>
 *3. db.sqlite3-wal*
 <br/>
 *Delete these files to retrain model from scratch (Get rid of unwanted data)*<br/>
