@@ -1,4 +1,4 @@
-### An offline chatbot with barely any training data.
+### An offline chatbot with some training data.
 
 <samp>
 

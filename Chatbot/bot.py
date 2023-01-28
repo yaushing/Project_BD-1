@@ -1,6 +1,7 @@
 import re, os, sys, doctest
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
+from playsound import playsound
 
 # Syllable Splitter 
 class Hyphenator:
