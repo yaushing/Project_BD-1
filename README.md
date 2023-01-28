@@ -1,7 +1,7 @@
-#### **The goal is a robot with a chatbot and that can answer commands**
-### This is the chatbot readme
+# **The goal is a robot with a chatbot and that can answer commands**
+## This is the chatbot readme
 
-### An offline untrained chatbot with some training data.
+## An offline untrained chatbot with some training data.
 
 <samp>
 
@@ -10,7 +10,7 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 **USE IDLE OR JUPYTER NOTEBOOK TO RUN -- DO NOT USE VS-CODE**
 *I think technically you could use an online compiler but I'm not sure why you would given that the point is for this to be OFFLINE*
 
-## NOTICE
+### NOTICE
 *Once having started training the training will be stored in the following 3 files:*
 <br/>
 *1. db.sqlite3*<br/>
