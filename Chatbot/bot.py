@@ -11,6 +11,8 @@ tts = True
 ## TEXT TO SPEECH FUNCTIONS ##
 ###############################
 
+engine = pyttsx3.init()
+
 #####################
 ## BEEP FUNCTIONS ##
 #####################
@@ -625,7 +627,6 @@ while True:
         if tts == False:
             transsent(str(ans))
         else:
-            engine = pyttsx3.init()
             engine.say(str(ans))
             engine.runAndWait()
 
