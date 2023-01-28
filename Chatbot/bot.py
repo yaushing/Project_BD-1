@@ -555,7 +555,6 @@ def remove_chat_metadata(chat_export_file):
 
     with open(chat_export_file, "r") as corpus_file:
         content = corpus_file.read()
-    print(content)
     cleaned_corpus = re.sub(pattern, "", content)
     return tuple(cleaned_corpus.split("\n"))
 
@@ -592,7 +591,6 @@ chatbot = ChatBot("BD-1")
 
 trainer = ListTrainer(chatbot)
 cleaned_corpus = clean_corpus(CORPUS_FILE)
-print(cleaned_corpus)
 trainer.train(cleaned_corpus)
 
 exit_conditions = (":q", "quit", "exit")
