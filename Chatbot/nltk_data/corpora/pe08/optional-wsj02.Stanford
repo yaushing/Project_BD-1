@@ -1,0 +1,413 @@
+Rolls-Royce Motor Cars Inc. said it expects its U.S. sales to remain steady at about 1,200 cars in 1990 .
+
+---------- dependencies ----------
+nn(Inc.-4, Rolls-Royce-1)
+nn(Inc.-4, Motor-2)
+nn(Inc.-4, Cars-3)
+nsubj(said-5, Inc.-4)
+nsubj(expects-7, it-6)
+ccomp(said-5, expects-7)
+poss(sales-10, its-8)
+nn(sales-10, U.S.-9)
+nsubj(steady-13, sales-10)
+aux(steady-13, to-11)
+cop(steady-13, remain-12)
+xcomp(expects-7, steady-13)
+quantmod(1,200-16, about-15)
+num(cars-17, 1,200-16)
+prep_at(steady-13, cars-17)
+prep_in(steady-13, 1990-19)
+
+
+
+The changes were proposed in an effort to streamline federal bureaucracy and boost compliance by the executives `` who are really calling the shots , '' said Brian Lane , special counsel at the SEC 's office of disclosure policy , which proposed the changes .
+
+---------- dependencies ----------
+det(changes-2, The-1)
+nsubjpass(proposed-4, changes-2)
+auxpass(proposed-4, were-3)
+ccomp(said-27, proposed-4)
+det(effort-7, an-6)
+prep_in(proposed-4, effort-7)
+aux(streamline-9, to-8)
+infmod(effort-7, streamline-9)
+amod(bureaucracy-11, federal-10)
+dobj(streamline-9, bureaucracy-11)
+conj_and(streamline-9, boost-13)
+infmod(effort-7, boost-13)
+dobj(boost-13, compliance-14)
+det(executives-17, the-16)
+prep_by(compliance-14, executives-17)
+nsubj(calling-22, who-19)
+rel(calling-22, who-19)
+aux(calling-22, are-20)
+advmod(calling-22, really-21)
+rcmod(executives-17, calling-22)
+det(shots-24, the-23)
+dobj(calling-22, shots-24)
+nn(Lane-29, Brian-28)
+nsubj(said-27, Lane-29)
+amod(counsel-32, special-31)
+appos(Lane-29, counsel-32)
+det(SEC-35, the-34)
+poss(office-37, SEC-35)
+prep_at(counsel-32, office-37)
+nsubj(proposed-43, office-37)
+nn(policy-40, disclosure-39)
+prep_of(office-37, policy-40)
+rel(proposed-43, which-42)
+rcmod(office-37, proposed-43)
+det(changes-45, the-44)
+dobj(proposed-43, changes-45)
+
+
+
+Also excluded will be investments in companies with `` significant '' business stemming from weapons manufacture , alcoholic beverages or tobacco .
+
+---------- dependencies ----------
+advmod(excluded-2, Also-1)
+aux(be-4, will-3)
+dep(excluded-2, be-4)
+nsubj(excluded-2, investments-5)
+prep_in(investments-5, companies-7)
+amod(business-12, significant-10)
+prep_with(companies-7, business-12)
+partmod(business-12, stemming-13)
+nn(manufacture-16, weapons-15)
+prep_from(stemming-13, manufacture-16)
+amod(beverages-19, alcoholic-18)
+conj_or(manufacture-16, beverages-19)
+prep_from(stemming-13, beverages-19)
+conj_or(manufacture-16, tobacco-21)
+prep_from(stemming-13, tobacco-21)
+
+
+
+And so it went through the first half : an ingeniously chosen potpourri of pieces , none longer than five minutes , none that would disturb or challenge a listener .
+
+---------- dependencies ----------
+advmod(went-4, so-2)
+conj_and(went-4, it-3)
+nsubj(went-4, it-3)
+det(half-8, the-6)
+amod(half-8, first-7)
+prep_through(went-4, half-8)
+det(potpourri-13, an-10)
+advmod(chosen-12, ingeniously-11)
+amod(potpourri-13, chosen-12)
+dep(went-4, potpourri-13)
+prep_of(potpourri-13, pieces-15)
+appos(pieces-15, none-17)
+amod(none-17, longer-18)
+num(minutes-21, five-20)
+prep_than(longer-18, minutes-21)
+appos(none-17, none-23)
+nsubj(disturb-26, none-23)
+nsubj(challenge-28, none-23)
+rel(disturb-26, that-24)
+aux(disturb-26, would-25)
+rcmod(none-23, disturb-26)
+conj_or(disturb-26, challenge-28)
+rcmod(none-23, challenge-28)
+det(listener-30, a-29)
+dobj(disturb-26, listener-30)
+
+
+
+The first hybrid corn seeds produced using this mechanical approach were introduced in the 1930s and they yielded as much as 20 % more corn than naturally pollinated plants .
+
+---------- dependencies ----------
+det(seeds-5, The-1)
+amod(seeds-5, first-2)
+amod(seeds-5, hybrid-3)
+nn(seeds-5, corn-4)
+nsubjpass(introduced-12, seeds-5)
+partmod(seeds-5, produced-6)
+partmod(produced-6, using-7)
+det(approach-10, this-8)
+amod(approach-10, mechanical-9)
+dobj(using-7, approach-10)
+auxpass(introduced-12, were-11)
+det(1930s-15, the-14)
+prep_in(introduced-12, 1930s-15)
+nsubj(yielded-18, they-17)
+conj_and(introduced-12, yielded-18)
+quantmod(20-22, as-19)
+quantmod(20-22, much-20)
+quantmod(20-22, as-21)
+num(%-23, 20-22)
+measure(more-24, %-23)
+amod(corn-25, more-24)
+dobj(yielded-18, corn-25)
+advmod(pollinated-28, naturally-27)
+amod(plants-29, pollinated-28)
+prep_than(corn-25, plants-29)
+
+
+
+`` What 's he doing ? '' hissed my companion , who was the only other English-speaking member of the convention and whose knuckles were white .
+
+---------- dependencies ----------
+dobj(doing-5, What-2)
+aux(doing-5, 's-3)
+nsubj(doing-5, he-4)
+ccomp(hissed-8, doing-5)
+poss(companion-10, my-9)
+nsubj(hissed-8, companion-10)
+nsubj(member-18, who-12)
+cop(member-18, was-13)
+det(member-18, the-14)
+advmod(member-18, only-15)
+amod(member-18, other-16)
+amod(member-18, English-speaking-17)
+dep(companion-10, member-18)
+det(convention-21, the-20)
+prep_of(member-18, convention-21)
+poss(knuckles-24, whose-23)
+nsubj(white-26, knuckles-24)
+cop(white-26, were-25)
+conj_and(member-18, white-26)
+dep(companion-10, white-26)
+
+
+
+Those employed in state-funded special programs increased by 7,400 to 65,200 in the same period , the Directorate said .
+
+---------- dependencies ----------
+nsubj(increased-7, Those-1)
+partmod(Those-1, employed-2)
+amod(programs-6, state-funded-4)
+amod(programs-6, special-5)
+prep_in(employed-2, programs-6)
+dep(said-19, increased-7)
+prep_by(increased-7, 7,400-9)
+prep_to(increased-7, 65,200-11)
+det(period-15, the-13)
+amod(period-15, same-14)
+prep_in(increased-7, period-15)
+det(Directorate-18, the-17)
+nsubj(said-19, Directorate-18)
+
+
+
+Coca-Cola Co. , aiming to boost soft-drink volume in Singapore , said it is discussing a joint venture with Fraser & Neave Ltd. , its bottling franchisee in that country .
+
+---------- dependencies ----------
+nn(Co.-2, Coca-Cola-1)
+nsubj(said-12, Co.-2)
+partmod(said-12, aiming-4)
+aux(boost-6, to-5)
+xcomp(aiming-4, boost-6)
+nn(volume-8, soft-drink-7)
+dobj(boost-6, volume-8)
+prep_in(volume-8, Singapore-10)
+nsubj(discussing-15, it-13)
+aux(discussing-15, is-14)
+ccomp(said-12, discussing-15)
+det(venture-18, a-16)
+amod(venture-18, joint-17)
+dobj(discussing-15, venture-18)
+nn(Ltd.-23, Fraser-20)
+conj_&(Fraser-20, Neave-22)
+nn(Ltd.-23, Neave-22)
+prep_with(discussing-15, Ltd.-23)
+poss(franchisee-27, its-25)
+amod(franchisee-27, bottling-26)
+appos(Ltd.-23, franchisee-27)
+det(country-30, that-29)
+prep_in(franchisee-27, country-30)
+
+
+
+AMERICAN BRANDS Inc. , Old Greenwich , Conn. , said it increased its quarterly 11 % to 68 cents a share from 61 cents , payable Dec. 1 to stock of record Nov. 10 .
+
+---------- dependencies ----------
+nn(Inc.-3, AMERICAN-1)
+nn(Inc.-3, BRANDS-2)
+nsubj(said-10, Inc.-3)
+nn(Greenwich-6, Old-5)
+appos(Inc.-3, Greenwich-6)
+appos(Greenwich-6, Conn.-8)
+nsubj(increased-12, it-11)
+ccomp(said-10, increased-12)
+poss(%-16, its-13)
+amod(%-16, quarterly-14)
+num(%-16, 11-15)
+dobj(increased-12, %-16)
+num(cents-19, 68-18)
+prep_to(increased-12, cents-19)
+det(share-21, a-20)
+dep(cents-19, share-21)
+num(cents-24, 61-23)
+prep_from(increased-12, cents-24)
+dep(increased-12, payable-26)
+dep(payable-26, Dec.-27)
+num(Dec.-27, 1-28)
+prep_to(payable-26, stock-30)
+prep_of(stock-30, record-32)
+dep(stock-30, Nov.-33)
+num(Nov.-33, 10-34)
+
+
+
+Here are the net contributions of the components of the Commerce Department 's index of leading indicators .
+
+---------- dependencies ----------
+advmod(are-2, Here-1)
+det(contributions-5, the-3)
+amod(contributions-5, net-4)
+dep(are-2, contributions-5)
+det(components-8, the-7)
+prep_of(contributions-5, components-8)
+det(Department-12, the-10)
+nn(Department-12, Commerce-11)
+poss(index-14, Department-12)
+prep_of(components-8, index-14)
+amod(indicators-17, leading-16)
+prep_of(index-14, indicators-17)
+
+
+
+`` Seems to '' because it 's possible that the CIA and the National Security Agency were more interested than they let on to Mr. Stoll .
+
+---------- dependencies ----------
+xcomp(Seems-2, to-3)
+mark(possible-8, because-5)
+nsubj(possible-8, it-6)
+cop(possible-8, 's-7)
+complm(interested-19, that-9)
+det(CIA-11, the-10)
+nsubj(interested-19, CIA-11)
+det(Agency-16, the-13)
+nn(Agency-16, National-14)
+nn(Agency-16, Security-15)
+conj_and(CIA-11, Agency-16)
+nsubj(interested-19, Agency-16)
+cop(interested-19, were-17)
+advmod(interested-19, more-18)
+ccomp(possible-8, interested-19)
+mark(let-22, than-20)
+nsubj(let-22, they-21)
+ccomp(interested-19, let-22)
+prt(let-22, on-23)
+nn(Stoll-26, Mr.-25)
+prep_to(let-22, Stoll-26)
+
+
+
+After discovering that the hacker had taken over the dormant account of a legitimate user named Joe Sventek , he rigged up an alarm system , including a portable beeper , to alert him when Sventek came on the line .
+
+---------- dependencies ----------
+prepc_after(rigged-21, discovering-2)
+complm(taken-7, that-3)
+det(hacker-5, the-4)
+nsubj(taken-7, hacker-5)
+aux(taken-7, had-6)
+ccomp(discovering-2, taken-7)
+prt(taken-7, over-8)
+det(account-11, the-9)
+amod(account-11, dormant-10)
+dobj(taken-7, account-11)
+det(user-15, a-13)
+amod(user-15, legitimate-14)
+prep_of(account-11, user-15)
+partmod(user-15, named-16)
+nn(Sventek-18, Joe-17)
+dep(named-16, Sventek-18)
+nsubj(rigged-21, he-20)
+prt(rigged-21, up-22)
+det(system-25, an-23)
+nn(system-25, alarm-24)
+dobj(rigged-21, system-25)
+det(beeper-30, a-28)
+amod(beeper-30, portable-29)
+prep_including(system-25, beeper-30)
+aux(alert-33, to-32)
+rcmod(system-25, alert-33)
+dobj(alert-33, him-34)
+advmod(came-37, when-35)
+nsubj(came-37, Sventek-36)
+advcl(alert-33, came-37)
+det(line-40, the-39)
+prep_on(came-37, line-40)
+
+
+
+And no one with a complaint about the judge would allow his name to be printed .
+
+---------- dependencies ----------
+det(one-3, no-2)
+nsubj(allow-11, one-3)
+det(complaint-6, a-5)
+prep_with(one-3, complaint-6)
+det(judge-9, the-8)
+prep_about(complaint-6, judge-9)
+aux(allow-11, would-10)
+poss(name-13, his-12)
+nsubjpass(printed-16, name-13)
+aux(printed-16, to-14)
+auxpass(printed-16, be-15)
+xcomp(allow-11, printed-16)
+
+
+
+More stable industries were to build an economically viable infrastructure for the Moon movement in North America , as they had in Japan and South Korea .
+
+---------- dependencies ----------
+advmod(stable-2, More-1)
+amod(industries-3, stable-2)
+nsubj(were-4, industries-3)
+xsubj(build-6, industries-3)
+aux(build-6, to-5)
+xcomp(were-4, build-6)
+det(infrastructure-10, an-7)
+advmod(viable-9, economically-8)
+amod(infrastructure-10, viable-9)
+dobj(build-6, infrastructure-10)
+det(movement-14, the-12)
+nn(movement-14, Moon-13)
+prep_for(build-6, movement-14)
+nn(America-17, North-16)
+prep_in(movement-14, America-17)
+mark(in-22, as-19)
+nsubj(in-22, they-20)
+aux(in-22, had-21)
+advcl(build-6, in-22)
+pobj(in-22, Japan-23)
+nn(Korea-26, South-25)
+conj_and(Japan-23, Korea-26)
+pobj(in-22, Korea-26)
+
+
+
+Sidley & Austin , a leading Chicago-based law firm , and Ashurst Morris Crisp , a midsized London firm of solicitors , are scheduled today to announce plans to open a joint office in Tokyo .
+
+---------- dependencies ----------
+nsubjpass(scheduled-24, Sidley-1)
+conj_&(Sidley-1, Austin-3)
+nsubjpass(scheduled-24, Austin-3)
+det(firm-9, a-5)
+amod(firm-9, leading-6)
+amod(firm-9, Chicago-based-7)
+nn(firm-9, law-8)
+appos(Sidley-1, firm-9)
+nn(Crisp-14, Ashurst-12)
+nn(Crisp-14, Morris-13)
+conj_and(Sidley-1, Crisp-14)
+nsubjpass(scheduled-24, Crisp-14)
+det(firm-19, a-16)
+amod(firm-19, midsized-17)
+nn(firm-19, London-18)
+appos(Crisp-14, firm-19)
+prep_of(firm-19, solicitors-21)
+auxpass(scheduled-24, are-23)
+tmod(scheduled-24, today-25)
+aux(announce-27, to-26)
+xcomp(scheduled-24, announce-27)
+dobj(announce-27, plans-28)
+aux(open-30, to-29)
+infmod(plans-28, open-30)
+det(office-33, a-31)
+amod(office-33, joint-32)
+dobj(open-30, office-33)
+prep_in(open-30, Tokyo-35)

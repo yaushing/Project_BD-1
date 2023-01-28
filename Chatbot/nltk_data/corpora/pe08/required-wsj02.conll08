@@ -1,0 +1,343 @@
+1	Bell	bell	NNP	NNP	Bell	bell	NNP	8	SBJ	_	A1	A0	A0	_	A0
+2	,	,	,	,	,	,	,	1	P	_	_	_	_	_	_
+3	based	base	VBN	VBN	based	base	VBN	1	APPO	base.01	_	_	_	_	_
+4	in	in	IN	IN	in	in	IN	3	LOC	_	AM-LOC	_	_	_	_
+5	Los	los	NNP	NNP	Los	los	NNP	6	NAME	_	_	_	_	_	_
+6	Angeles	angeles	NNP	NNP	Angeles	angeles	NNP	4	PMOD	_	_	_	_	_	_
+7	,	,	,	,	,	,	,	1	P	_	_	_	_	_	_
+8	makes	make	VBZ	VBZ	makes	make	VBZ	0	ROOT	make.01	_	_	_	_	SU
+9	and	and	CC	CC	and	and	CC	8	COORD	_	_	_	_	_	_
+10	distributes	distribute	VBZ	VBZ	distributes	distribute	VBZ	9	CONJ	distribute.01	_	_	_	_	SU
+11	electronic	electronic	JJ	JJ	electronic	electronic	JJ	16	NMOD	_	_	_	_	_	A1
+12	,	,	,	,	,	,	,	11	P	_	_	_	_	_	_
+13	computer	computer	NN	NN	computer	computer	NN	11	COORD	_	_	_	_	_	_
+14	and	and	CC	CC	and	and	CC	13	COORD	_	_	_	_	_	_
+15	building	building	NN	NN	building	building	NN	14	CONJ	building.01	_	_	_	_	A3
+16	products	product	NNS	NNS	products	product	NNS	8	OBJ	product.01	_	A1	A1	A2	_
+17	.	.	.	.	.	.	.	8	P	_	_	_	_	_	_
+
+
+1	Not	not	RB	RB	Not	not	RB	6	SBJ	_	A0	A0
+2	all	all	PDT	PDT	all	all	PDT	1	NMOD	_	_	_
+3	those	those	DT	DT	those	those	DT	1	NMOD	_	_	_
+4	who	who	WP	WP	who	who	WP	5	SBJ	_	R-A0	_
+5	wrote	write	VBD	VBD	wrote	write	VBD	1	NMOD	write.01	_	_
+6	oppose	oppose	VBP	VBP	oppose	oppose	VBP	0	ROOT	oppose.01	_	_
+7	the	the	DT	DT	the	the	DT	8	NMOD	_	_	_
+8	changes	change	NNS	NNS	changes	change	NNS	6	OBJ	_	_	A1
+9	.	.	.	.	.	.	.	6	P	_	_	_
+
+
+1	Considered	consider	VBN	VBN	Considered	consider	VBN	18	ADV	consider.01	_	SU	_	_	_	_	_
+2	as	as	IN	IN	as	as	IN	1	ADV	_	A2	_	_	_	_	_	_
+3	a	a	DT	DT	a	a	DT	4	NMOD	_	_	_	_	_	_	_	_
+4	whole	whole	NN	NN	whole	whole	NN	2	PMOD	whole.01	_	_	_	_	_	_	_
+5	,	,	,	,	,	,	,	8	P	_	_	_	_	_	_	_	_
+6	Mr.	mr.	NNP	NNP	Mr.	mr.	NNP	7	TITLE	_	_	_	_	_	_	_	_
+7	Lane	lane	NNP	NNP	Lane	lane	NNP	8	SBJ	_	_	_	A0	_	_	_	_
+8	said	say	VBD	VBD	said	say	VBD	18	PRN	say.01	_	_	_	_	_	_	_
+9	,	,	,	,	,	,	,	8	P	_	_	_	_	_	_	_	_
+10	the	the	DT	DT	the	the	DT	11	NMOD	_	_	_	_	_	_	_	_
+11	filings	filing	NNS	NNS	filings	filing	NNS	18	SBJ	_	A1	A1	_	A1	_	_	_
+12	required	require	VBN	VBN	required	require	VBN	11	APPO	require.01	_	_	_	_	_	_	_
+13	under	under	IN	IN	under	under	IN	12	LOC	_	_	_	_	AM-LOC	_	_	_
+14	the	the	DT	DT	the	the	DT	16	NMOD	_	_	_	_	_	_	_	_
+15	proposed	propose	VBN	VBN	proposed	propose	VBN	16	NMOD	propose.01	_	_	_	_	_	_	_
+16	rules	rule	NNS	NNS	rules	rule	NNS	13	PMOD	_	_	_	_	_	A1	_	_
+17	``	``	``	``	``	``	``	18	P	_	_	_	_	_	_	_	_
+18	will	will	MD	MD	will	will	MD	0	ROOT	_	_	_	C-A1	_	_	_	_
+19	be	be	VB	VB	be	be	VB	18	VC	_	_	_	_	_	_	_	_
+20	at	at	IN	IN	at	at	IN	19	PRD	_	_	_	_	_	_	_	_
+21	least	least	RBS	JJS	least	least	JJS	20	AMOD	_	_	_	_	_	_	_	_
+22	as	as	IN	IN	as	as	IN	20	AMOD	_	_	_	_	_	_	_	_
+23	effective	effective	JJ	JJ	effective	effective	JJ	20	AMOD	_	_	_	_	_	_	_	_
+24	,	,	,	,	,	,	,	25	P	_	_	_	_	_	_	_	_
+25	if	if	IN	IN	if	if	IN	20	PRN	_	_	_	_	_	_	_	_
+26	not	not	RB	RB	not	not	RB	28	DEP	_	_	_	_	_	_	_	_
+27	more	more	RBR	RBR	more	more	RBR	28	AMOD	_	_	_	_	_	_	_	_
+28	so	so	RB	RB	so	so	RB	25	ADV	_	_	_	_	_	_	_	_
+29	,	,	,	,	,	,	,	25	P	_	_	_	_	_	_	_	_
+30	for	for	IN	IN	for	for	IN	19	ADV	_	_	_	_	_	_	_	_
+31	investors	investor	NNS	NNS	investors	investor	NNS	30	PMOD	_	_	_	_	_	_	A0	A0
+32	following	follow	VBG	VBG	following	follow	VBG	31	APPO	follow.02	_	_	_	_	_	_	SU
+33	transactions	transactions	NNS	NNS	transactions	transactions	NNS	32	OBJ	transactions.01	_	_	_	_	_	A1	_
+34	.	.	.	.	.	.	.	18	P	_	_	_	_	_	_	_	_
+35	''	''	''	''	''	''	''	18	P	_	_	_	_	_	_	_	_
+
+
+1	The	the	DT	DT	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_	_
+2	oboist	oboist	NN	NN	oboist	oboist	NN	5	SBJ	_	A0	_	_	_	_	_	_	_
+3	Heinz	heinz	NNP	NNP	Heinz	heinz	NNP	4	NAME	_	_	_	_	_	_	_	_	_
+4	Holliger	holliger	NNP	NNP	Holliger	holliger	NNP	2	APPO	_	_	A0	_	_	_	_	_	_
+5	has	have	VBZ	VBZ	has	have	VBZ	0	ROOT	_	_	_	_	_	_	_	_	_
+6	taken	take	VBN	VBN	taken	take	VBN	5	VC	take.01	_	SU	_	_	_	_	_	_
+7	a	a	DT	DT	a	a	DT	9	NMOD	_	_	_	_	_	_	_	_	_
+8	hard	hard	JJ	JJ	hard	hard	JJ	9	NMOD	_	_	A3	_	_	_	_	_	_
+9	line	line	NN	NN	line	line	NN	6	OBJ	line.05	A1	_	_	_	_	_	_	_
+10	about	about	IN	IN	about	about	IN	6	ADV	_	C-A1	A1	_	_	_	_	_	_
+11	the	the	DT	DT	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_
+12	problem	problem	NN	NN	problem	problem	NN	10	PMOD	_	_	_	_	_	_	_	_	_
+13	:	:	:	:	:	:	:	5	P	_	_	_	_	_	_	_	_	_
+14	He	he	PRP	PRP	He	he	PRP	15	SBJ	_	_	_	A0	A0	_	A0	_	_
+15	commissions	commission	VBZ	NNS	commissions	commission	NNS	5	COORD	commission.01	_	_	_	_	_	_	_	_
+16	and	and	CC	CC	and	and	CC	15	COORD	_	_	_	_	_	_	_	_	_
+17	splendidly	splendidly	RB	RB	splendidly	splendidly	RB	18	MNR	_	_	_	_	AM-MNR	_	_	_	_
+18	interprets	interpret	VBZ	VBZ	interprets	interpret	VBZ	16	CONJ	interpret.01	_	_	_	_	_	_	_	_
+19	fearsome	fearsome	JJ	JJ	fearsome	fearsome	JJ	21	NMOD	_	_	_	_	_	_	_	_	_
+20	contemporary	contemporary	JJ	JJ	contemporary	contemporary	JJ	21	NMOD	_	_	_	_	_	AM-TMP	_	_	_
+21	scores	scores	NNS	NNS	scores	scores	NNS	15	OBJ	scores.02	_	_	A1	A1	A1	_	_	_
+22	and	and	CC	CC	and	and	CC	18	COORD	_	_	_	_	_	_	_	_	_
+23	does	do	VBZ	VBZ	does	do	VBZ	22	CONJ	do.02	_	_	_	_	_	_	_	_
+24	some	some	DT	DT	some	some	DT	25	NMOD	_	_	_	_	_	_	_	_	_
+25	conducting	conduct	NN	VBG	conducting	conduct	VBG	23	OBJ	_	_	_	_	_	_	A1	_	_
+26	,	,	,	,	,	,	,	15	P	_	_	_	_	_	_	_	_	_
+27	so	so	IN	IN	so	so	IN	15	PRP	_	_	_	_	_	_	_	_	_
+28	he	he	PRP	PRP	he	he	PRP	29	SBJ	_	_	_	_	_	_	_	_	A0
+29	does	do	VBZ	VBZ	does	do	VBZ	27	SUB	_	_	_	_	_	_	_	_	_
+30	n't	not	RB	RB	n't	not	RB	29	ADV	_	_	_	_	_	_	_	AM-NEG	_
+31	have	have	VB	VB	have	have	VB	29	VC	have.02	_	_	_	_	_	_	_	AM-MOD
+32	to	to	TO	TO	to	to	TO	31	OPRD	_	_	_	_	_	_	_	_	_
+33	play	play	VB	VB	play	play	VB	32	IM	play.01	_	_	_	_	_	_	_	_
+34	the	the	DT	DT	the	the	DT	39	NMOD	_	_	_	_	_	_	_	_	_
+35	same	same	JJ	JJ	same	same	JJ	39	NMOD	_	_	_	_	_	_	_	_	_
+36	Mozart	mozart	NNP	NNP	Mozart	mozart	NNP	39	NMOD	_	_	_	_	_	_	_	_	_
+37	and	and	CC	CC	and	and	CC	36	COORD	_	_	_	_	_	_	_	_	_
+38	Strauss	strauss	NNP	NNP	Strauss	strauss	NNP	37	CONJ	_	_	_	_	_	_	_	_	_
+39	concertos	concerto	NNS	NNS	concertos	concertos	CC	33	OBJ	_	_	_	_	_	_	_	_	A1
+40	over	over	RB	IN	over	over	IN	33	ADV	_	_	_	_	_	_	_	_	AM-TMP
+41	and	and	CC	CC	and	and	CC	40	COORD	_	_	_	_	_	_	_	_	_
+42	over	over	RB	IN	over	over	IN	41	CONJ	_	_	_	_	_	_	_	_	_
+43	again	again	RB	RB	again	again	RB	33	TMP	_	_	_	_	_	_	_	_	AM-TMP
+44	.	.	.	.	.	.	.	5	P	_	_	_	_	_	_	_	_	_
+
+
+1	Today	today	NN	NN	Today	today	NN	8	TMP	_	AM-TMP	_	_	_	AM-TMP	_	_	_
+2	,	,	,	,	,	,	,	8	P	_	_	_	_	_	_	_	_	_
+3	the	the	DT	DT	the	the	DT	7	NMOD	_	_	_	_	_	_	_	_	_
+4	pixie-like	pixie-like	JJ	JJ	pixie	pixie	NN	6	HMOD	_	_	_	_	_	_	_	_	_
+5	_	_	_	_	-	-	HYPH	4	HYPH	_	_	_	_	_	_	_	_	_
+6	_	_	_	_	like	like	JJ	7	NMOD	_	_	_	_	_	_	_	_	_
+7	clarinetist	clarinetist	NN	NN	clarinetist	clarinetist	NN	8	SBJ	_	A0	A0	_	_	A0	_	A0	_
+8	has	have	VBZ	VBZ	has	have	VBZ	0	ROOT	_	_	_	_	_	_	_	_	_
+9	mostly	mostly	RB	RB	mostly	mostly	RB	8	ADV	_	AM-ADV	_	_	_	_	_	_	_
+10	dropped	drop	VBN	VBN	dropped	drop	VBN	8	VC	drop.05	_	SU	_	_	_	_	_	_
+11	the	the	DT	DT	the	the	DT	13	NMOD	_	_	_	_	_	_	_	_	_
+12	missionary	missionary	JJ	JJ	missionary	missionary	JJ	13	NMOD	_	_	_	_	_	_	_	_	_
+13	work	work	NN	NN	work	work	NN	10	OBJ	work.01	A1	_	_	_	_	_	_	_
+14	(	-lrb-	(	(	(	-lrb-	(	15	P	_	_	_	_	_	_	_	_	_
+15	though	though	IN	IN	though	though	IN	10	PRN	_	AM-ADV	_	_	_	_	_	_	_
+16	a	a	DT	DT	a	a	DT	17	NMOD	_	_	_	_	_	_	_	_	_
+17	touch	touch	NN	NN	touch	touch	NN	23	SBJ	touch.01	_	_	_	A0	_	_	_	_
+18	of	of	IN	IN	of	of	IN	17	NMOD	_	_	_	A1	_	_	_	_	_
+19	the	the	DT	DT	the	the	DT	21	NMOD	_	_	_	_	_	_	_	_	_
+20	old	old	JJ	JJ	old	old	JJ	21	NMOD	_	_	_	_	_	_	_	_	_
+21	Tashi	tashi	NNP	NNP	Tashi	tashi	NNP	18	PMOD	_	_	_	_	_	_	_	_	_
+22	still	still	RB	RB	still	still	RB	23	TMP	_	_	_	_	AM-TMP	_	_	_	_
+23	survives	survive	VBZ	VBZ	survives	survive	VBZ	15	SUB	survive.01	_	_	_	_	_	_	_	_
+24	)	-rrb-	)	)	)	-rrb-	)	15	P	_	_	_	_	_	_	_	_	_
+25	and	and	CC	CC	and	and	CC	8	COORD	_	_	_	_	_	_	_	_	_
+26	now	now	RB	RB	now	now	RB	8	TMP	_	_	_	_	_	AM-TMP	_	_	_
+27	goes	go	VBZ	VBZ	goes	go	VBZ	25	CONJ	go.02	_	_	_	_	_	_	_	_
+28	on	on	IN	IN	on	on	IN	27	ADV	_	_	_	_	_	A1	_	_	_
+29	the	the	DT	DT	the	the	DT	30	NMOD	_	_	_	_	_	_	_	_	_
+30	road	road	NN	NN	road	road	NN	28	PMOD	_	_	_	_	_	_	_	_	_
+31	with	with	IN	IN	with	with	IN	27	ADV	_	_	_	_	_	AM-MNR	_	_	_
+32	piano	piano	NN	NN	piano	piano	NN	31	PMOD	_	_	_	_	_	_	_	_	_
+33	,	,	,	,	,	,	,	32	P	_	_	_	_	_	_	_	_	_
+34	bass	bass	NN	NN	bass	bass	NN	32	COORD	_	_	_	_	_	_	_	_	_
+35	,	,	,	,	,	,	,	34	P	_	_	_	_	_	_	_	_	_
+36	a	a	DT	DT	a	a	DT	38	NMOD	_	_	_	_	_	_	_	_	_
+37	slide	slide	NN	NN	slide	slide	NN	38	NMOD	_	_	_	_	_	_	A3	_	_
+38	show	show	NN	NN	show	show	NN	34	COORD	show.01	_	_	_	_	_	_	_	_
+39	,	,	,	,	,	,	,	38	P	_	_	_	_	_	_	_	_	_
+40	and	and	CC	CC	and	and	CC	38	COORD	_	_	_	_	_	_	_	_	_
+41	a	a	DT	DT	a	a	DT	42	NMOD	_	_	_	_	_	_	_	_	_
+42	repertoire	repertoire	NN	NN	repertoire	repertoire	NN	40	CONJ	repertoire.01	_	_	_	_	_	_	A1	A1
+43	that	that	WDT	WDT	that	that	WDT	44	SBJ	_	_	_	_	_	_	_	_	R-A1
+44	ranges	range	VBZ	VBZ	ranges	range	VBZ	42	NMOD	range.01	_	_	_	_	_	_	_	_
+45	from	from	IN	IN	from	from	IN	44	DIR	_	_	_	_	_	_	_	_	A3
+46	light	light	JJ	JJ	light	light	JJ	47	NMOD	_	_	_	_	_	_	_	_	_
+47	classical	classical	JJ	JJ	classical	classical	JJ	45	PMOD	_	_	_	_	_	_	_	_	_
+48	to	to	TO	TO	to	to	TO	45	PMOD	_	_	_	_	_	_	_	_	A4
+49	light	light	JJ	JJ	light	light	JJ	50	NMOD	_	_	_	_	_	_	_	_	_
+50	jazz	jazz	NN	NN	jazz	jazz	NN	48	PMOD	_	_	_	_	_	_	_	_	_
+51	to	to	TO	TO	to	to	TO	45	PMOD	_	_	_	_	_	_	_	_	A4
+52	light	light	JJ	JJ	light	light	JJ	53	NMOD	_	_	_	_	_	_	_	_	_
+53	pop	pop	NN	NN	pop	pop	NN	51	PMOD	_	_	_	_	_	_	_	_	_
+54	,	,	,	,	,	,	,	44	P	_	_	_	_	_	_	_	_	_
+55	with	with	IN	IN	with	with	IN	44	ADV	_	_	_	_	_	_	_	_	_
+56	a	a	DT	DT	a	a	DT	59	NMOD	_	_	_	_	_	_	_	_	_
+57	few	few	JJ	JJ	few	few	DT	59	NMOD	_	_	_	_	_	_	_	_	_
+58	notable	notable	JJ	JJ	notable	notable	JJ	59	NMOD	_	_	_	_	_	_	_	_	_
+59	exceptions	exception	NNS	NNS	exceptions	exception	NNS	55	PMOD	_	_	_	_	_	_	_	_	_
+60	.	.	.	.	.	.	.	8	P	_	_	_	_	_	_	_	_	_
+
+
+1	A	a	DT	DT	A	a	DT	3	NMOD	_	_
+2	similar	similar	JJ	JJ	similar	similar	JJ	3	NMOD	_	_
+3	technique	technique	NN	NN	technique	technique	NN	4	SBJ	_	A1
+4	is	be	VBZ	VBZ	is	be	VBZ	0	ROOT	_	_
+5	almost	almost	RB	RB	almost	almost	RB	6	AMOD	_	_
+6	impossible	impossible	JJ	JJ	impossible	impossible	JJ	4	PRD	_	_
+7	to	to	TO	TO	to	to	TO	6	AMOD	_	_
+8	apply	apply	VB	VB	apply	apply	VB	7	IM	apply.02	_
+9	to	to	TO	TO	to	to	TO	8	ADV	_	A2
+10	other	other	JJ	JJ	other	other	JJ	11	NMOD	_	_
+11	crops	crop	NNS	NNS	crops	crop	NNS	9	PMOD	_	_
+12	,	,	,	,	,	,	,	11	P	_	_
+13	such	such	JJ	JJ	such	such	JJ	14	DEP	_	_
+14	as	as	IN	IN	as	as	IN	11	NMOD	_	_
+15	cotton	cotton	NN	NN	cotton	cotton	NN	14	PMOD	_	_
+16	,	,	,	,	,	,	,	15	P	_	_
+17	soybeans	soybean	NNS	NNS	soybeans	soybean	NNS	15	COORD	_	_
+18	and	and	CC	CC	and	and	CC	17	COORD	_	_
+19	rice	rice	NN	NN	rice	rice	NN	18	CONJ	_	_
+20	.	.	.	.	.	.	.	4	P	_	_
+
+
+1	``	``	``	``	``	``	``	10	P	_	_	_	_	_	_	_	_
+2	I	i	PRP	PRP	I	i	PRP	3	SBJ	_	A0	_	_	_	_	_	_
+3	feel	feel	VBP	VBP	feel	feel	VBP	10	OBJ	feel.01	_	A1	_	_	_	_	_
+4	like	like	IN	IN	like	like	IN	3	ADV	_	A1	_	_	_	_	_	_
+5	a	a	DT	DT	a	a	DT	7	NMOD	_	_	_	_	_	_	_	_
+6	little	little	JJ	JJ	little	little	JJ	7	NMOD	_	_	_	_	_	_	_	_
+7	kid	kid	NN	NN	kid	kid	NN	4	PMOD	_	_	_	_	_	_	_	_
+8	,	,	,	,	,	,	,	10	P	_	_	_	_	_	_	_	_
+9	''	''	''	''	''	''	''	10	P	_	_	_	_	_	_	_	_
+10	says	say	VBZ	VBZ	says	say	VBZ	0	ROOT	say.01	_	_	_	_	_	_	_
+11	a	a	DT	DT	a	a	DT	12	AMOD	_	_	_	_	_	_	_	_
+12	gleeful	gleeful	JJ	JJ	gleeful	gleeful	JJ	15	NMOD	_	_	_	_	_	_	_	_
+13	Alex	alex	NNP	NNP	Alex	alex	NNP	15	NAME	_	_	_	_	_	_	_	_
+14	de	de	FW	FW	de	de	NNP	15	NAME	_	_	_	_	_	_	_	_
+15	Castro	castro	NNP	NNP	Castro	castro	NNP	10	SBJ	_	_	A0	_	_	_	_	_
+16	,	,	,	,	,	,	,	15	P	_	_	_	_	_	_	_	_
+17	a	a	DT	DT	a	a	DT	19	NMOD	_	_	_	_	_	_	_	_
+18	car	car	NN	NN	car	car	NN	19	NMOD	_	_	_	A1	_	_	_	_
+19	salesman	salesman	NN	NN	salesman	salesman	NN	15	APPO	salesman.01	_	_	A0	A0	_	A0	_
+20	,	,	,	,	,	,	,	15	P	_	_	_	_	_	_	_	_
+21	who	who	WP	WP	who	who	WP	22	SBJ	_	_	_	_	R-A0	_	R-A0	_
+22	has	have	VBZ	VBZ	has	have	VBZ	15	NMOD	_	_	_	_	_	_	_	_
+23	stopped	stop	VBN	VBN	stopped	stop	VBN	22	VC	stop.02	_	_	_	_	_	_	_
+24	by	by	RP	IN	by	by	IN	23	PRT	_	_	_	_	_	_	_	_
+25	a	a	DT	DT	a	a	DT	26	NMOD	_	_	_	_	_	_	_	_
+26	workout	workout	NN	NN	workout	workout	NN	23	OBJ	workout.01	_	_	_	A1	_	_	_
+27	of	of	IN	IN	of	of	IN	26	NMOD	_	_	_	_	_	A0	_	_
+28	the	the	DT	DT	the	the	DT	29	NMOD	_	_	_	_	_	_	_	_
+29	Suns	sun	NNPS	NNPS	Suns	sun	NNS	27	PMOD	_	_	_	_	_	_	_	_
+30	to	to	TO	TO	to	to	TO	23	PRP	_	_	_	_	AM-PNC	_	_	_
+31	slip	slip	VB	VB	slip	slip	VB	30	IM	slip.03	_	_	_	_	_	_	_
+32	six	six	CD	CD	six	six	CD	34	NMOD	_	_	_	_	_	_	_	_
+33	Campaneris	campaneris	NNP	NNP	Campaneris	campaneris	NNP	34	NMOD	_	_	_	_	_	_	_	_
+34	cards	cards	NNS	NNS	cards	cards	NNS	31	OBJ	_	_	_	_	_	_	A1	A1
+35	to	to	TO	TO	to	to	TO	31	DTV	_	_	_	_	_	_	A2	_
+36	the	the	DT	DT	the	the	DT	38	NMOD	_	_	_	_	_	_	_	_
+37	Great	great	JJ	NNP	Great	great	NNP	38	NMOD	_	_	_	_	_	_	_	_
+38	Man	man	NN	NNP	Man	man	NNP	39	NMOD	_	_	_	_	_	_	_	_
+39	Himself	himself	PRP	NNP	Himself	himself	NNP	35	PMOD	_	_	_	_	_	_	_	_
+40	to	to	TO	TO	to	to	TO	34	NMOD	_	_	_	_	_	_	AM-PNC	_
+41	be	be	VB	VB	be	be	VB	40	IM	_	_	_	_	_	_	_	_
+42	autographed	autograph	VBN	VBN	autographed	autograph	VBN	41	VC	autograph.01	_	_	_	_	_	_	_
+43	.	.	.	.	.	.	.	10	P	_	_	_	_	_	_	_	_
+
+
+1	So	so	RB	RB	So	so	RB	15	TMP	_	_	_	AM-TMP	_	_	_	_	_	_	_
+2	far	far	RB	RB	far	far	RB	1	AMOD	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	,	,	,	,	,	15	P	_	_	_	_	_	_	_	_	_	_	_
+4	neither	neither	CC	CC	neither	neither	DT	7	NMOD	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	DT	the	the	DT	7	NMOD	_	_	_	_	_	_	_	_	_	_	_
+6	Bush	bush	NNP	NNP	Bush	bush	NNP	7	NMOD	_	A0	_	_	_	_	_	_	_	_	_
+7	administration	administration	NN	NN	administration	administration	NN	15	SBJ	administration.01	_	_	A1	A1	_	A2	_	_	_	_
+8	nor	nor	CC	CC	nor	nor	CC	7	COORD	_	_	_	_	_	_	_	_	_	_	_
+9	arms-control	arms-control	JJ	JJ	arms	arms	NNS	11	HMOD	_	_	_	_	_	_	_	_	_	_	_
+10	_	_	_	_	-	-	HYPH	9	HYPH	_	_	_	_	_	_	_	_	_	_	_
+11	_	_	_	_	control	control	NN	12	NMOD	_	_	A1	_	_	_	_	_	_	_	_
+12	experts	expert	NNS	NNS	experts	expert	NNS	8	CONJ	expert.01	_	A0	_	_	_	_	_	_	_	_
+13	in	in	IN	IN	in	in	IN	12	LOC	_	_	A2	_	_	_	_	_	_	_	_
+14	Congress	congress	NNP	NNP	Congress	congress	NNP	13	PMOD	_	_	_	_	_	_	_	_	_	_	_
+15	seem	seem	VBP	VBP	seem	seem	VBP	0	ROOT	seem.01	_	_	_	_	_	_	_	_	_	_
+16	moved	move	VBN	VBN	moved	move	VBN	15	OPRD	move.03	_	_	C-A1	_	SU	_	_	_	_	_
+17	by	by	IN	IN	by	by	IN	16	LGS	by.SU	_	_	_	A0	_	SU	_	_	_	_
+18	arguments	argument	NNS	NNS	arguments	argument	NNS	17	PMOD	argument.01	_	_	_	_	_	_	_	_	_	_
+19	that	that	IN	IN	that	that	IN	18	NMOD	_	_	_	_	_	_	A1	_	_	_	_
+20	these	these	DT	DT	these	these	DT	21	NMOD	_	_	_	_	_	_	_	_	_	_	_
+21	problems	problem	NNS	NNS	problems	problem	NNS	22	SBJ	_	_	_	_	_	_	_	A0	_	A1	_
+22	may	may	MD	MD	may	may	MD	19	SUB	_	_	_	_	_	_	_	AM-MOD	_	_	_
+23	take	take	VB	VB	take	take	VB	22	VC	take.01	_	_	_	_	_	_	_	SU	_	_
+24	more	more	JJR	JJR	more	more	RBR	25	NMOD	_	_	_	_	_	_	_	_	_	_	_
+25	time	time	NN	NN	time	time	NN	23	OBJ	time.01	_	_	_	_	_	_	A1	_	_	A1
+26	to	to	TO	TO	to	to	TO	21	NMOD	_	_	_	_	_	_	_	_	A1	_	_
+27	thrash	thrash	VB	VB	thrash	thrash	VB	26	IM	thrash.02	_	_	_	_	_	_	_	_	_	_
+28	out	out	RB	RP	out	out	RP	27	PRT	_	_	_	_	_	_	_	_	_	_	_
+29	than	than	IN	IN	than	than	IN	25	NMOD	_	_	_	_	_	_	_	_	_	_	_
+30	President	president	NNP	NNP	President	president	NN	31	TITLE	_	_	_	_	_	_	_	_	_	_	_
+31	Bush	bush	NNP	NNP	Bush	bush	NNP	32	SBJ	_	_	_	_	_	_	_	_	_	_	A0
+32	has	have	VBZ	VBZ	has	have	VBZ	29	SUB	_	_	_	_	_	_	_	_	_	_	_
+33	allowed	allow	VBN	VBN	allowed	allow	VBN	32	VC	allow.02	_	_	_	_	_	_	_	_	_	_
+34	.	.	.	.	.	.	.	15	P	_	_	_	_	_	_	_	_	_	_	_
+
+
+1	``	``	``	``	``	``	``	3	P	_	_	_
+2	There	there	EX	EX	There	there	EX	3	SBJ	_	_	_
+3	are	be	VBP	VBP	are	be	VBP	0	ROOT	_	_	_
+4	so	so	RB	RB	so	so	RB	7	NMOD	_	_	_
+5	many	many	JJ	JJ	many	many	JJ	4	DEP	_	_	_
+6	possible	possible	JJ	JJ	possible	possible	JJ	7	NMOD	_	_	_
+7	proportions	proportion	NNS	NNS	proportions	proportion	NNS	3	PRD	_	_	_
+8	when	when	WRB	WRB	when	when	WRB	10	TMP	_	R-AM-TMP	_
+9	you	you	PRP	PRP	you	you	PRP	10	SBJ	_	A0	_
+10	consider	consider	VBP	VBP	consider	consider	VBP	3	TMP	consider.01	_	_
+11	how	how	WRB	WRB	how	how	WRB	13	NMOD	_	_	_
+12	many	many	JJ	JJ	many	many	JJ	11	AMOD	_	_	_
+13	things	things	NNS	NNS	things	things	NNS	14	SBJ	_	_	A1
+14	are	be	VBP	VBP	are	be	VBP	10	OBJ	_	A1	_
+15	made	make	VBN	VBN	made	make	VBN	14	VC	make.01	_	_
+16	out	out	IN	IN	out	out	IN	15	ADV	_	_	A2
+17	of	of	IN	IN	of	of	IN	16	PMOD	_	_	_
+18	eggs	eggs	NNS	NNS	eggs	eggs	NNS	17	PMOD	_	_	_
+19	and	and	CC	CC	and	and	CC	18	COORD	_	_	_
+20	butter	butter	NN	NN	butter	butter	NN	19	CONJ	_	_	_
+21	and	and	CC	CC	and	and	CC	20	COORD	_	_	_
+22	milk	milk	NN	NN	milk	milk	NN	21	CONJ	_	_	_
+23	.	.	.	.	.	.	.	3	P	_	_	_
+
+
+1	``	``	``	``	``	``	``	32	P	_	_	_	_	_	_	_	_	_
+2	I	i	PRP	PRP	I	i	PRP	3	SBJ	_	A0	A0	_	_	_	_	_	_
+3	do	do	VBP	VBP	do	do	VBP	32	OBJ	_	_	_	_	_	_	_	A1	_
+4	n't	not	RB	RB	n't	not	RB	3	ADV	_	AM-NEG	_	_	_	_	_	_	_
+5	have	have	VB	VB	have	have	VB	3	VC	have.03	_	_	_	_	_	_	_	_
+6	anything	anything	NN	NN	anything	anything	NN	5	OBJ	_	A1	A1	_	_	_	_	_	_
+7	much	much	JJ	JJ	much	much	JJ	6	APPO	_	_	_	_	_	_	_	_	_
+8	to	to	TO	TO	to	to	TO	6	NMOD	_	_	_	_	_	_	_	_	_
+9	say	say	VB	VB	say	say	VB	8	IM	say.01	_	_	_	_	_	_	_	_
+10	,	,	,	,	,	,	,	3	P	_	_	_	_	_	_	_	_	_
+11	and	and	CC	CC	and	and	CC	3	COORD	_	_	_	_	_	_	_	_	_
+12	I	i	PRP	PRP	I	i	PRP	13	SBJ	_	_	_	A0	_	_	_	_	_
+13	think	think	VBP	VBP	think	think	VBP	11	CONJ	think.01	_	_	_	_	_	_	_	_
+14	that	that	DT	DT	that	that	DT	15	SBJ	_	_	_	_	_	_	_	_	_
+15	's	be	VBZ	VBZ	's	be	VBZ	13	OBJ	_	_	_	A1	_	_	_	_	_
+16	what	what	WP	WP	what	what	WP	18	DEP	_	_	_	_	_	A1	_	_	_
+17	you	you	PRP	PRP	you	you	PRP	18	SBJ	_	_	_	_	_	A0	_	_	_
+18	're	're	VBP	VBP	're	're	VBP	15	PRD	_	_	_	_	_	_	_	_	_
+19	going	go	VBG	VBG	going	go	VBG	18	VC	go.04	_	_	_	_	AM-MOD	_	_	_
+20	to	to	TO	TO	to	to	TO	19	VC	_	_	_	_	_	_	_	_	_
+21	find	find	VB	VB	find	find	VB	20	IM	find.01	_	_	_	_	_	_	_	_
+22	from	from	IN	IN	from	from	IN	21	ADV	_	_	_	_	_	AM-ADV	_	_	_
+23	everyone	everyone	NN	NN	everyone	everyone	NN	22	PMOD	_	_	_	_	_	_	A2	_	_
+24	else	else	RB	RB	else	else	RB	23	NMOD	_	_	_	_	_	_	_	_	_
+25	you	you	PRP	PRP	you	you	PRP	26	SBJ	_	_	_	_	_	_	A0	_	_
+26	talk	talk	VBP	VBP	talk	talk	VBP	23	NMOD	talk.01	_	_	_	_	_	_	_	_
+27	to	to	TO	TO	to	to	TO	26	ADV	_	_	_	_	_	_	_	_	_
+28	up	up	RB	RP	up	up	RP	26	LOC	_	_	_	_	_	_	AM-LOC	_	_
+29	here	here	RB	RB	here	here	RB	28	AMOD	_	_	_	_	_	_	_	_	_
+30	,	,	,	,	,	,	,	32	P	_	_	_	_	_	_	_	_	_
+31	''	''	''	''	''	''	''	32	P	_	_	_	_	_	_	_	_	_
+32	says	say	VBZ	VBZ	says	say	VBZ	0	ROOT	say.01	_	_	_	_	_	_	_	_
+33	local	local	JJ	JJ	local	local	JJ	34	NMOD	_	_	_	_	_	_	_	_	AM-LOC
+34	attorney	attorney	NN	NN	attorney	attorney	NN	32	SBJ	attorney.01	_	_	_	_	_	_	A0	A0
+35	Edward	edward	NNP	NNP	Edward	edward	NNP	37	NAME	_	_	_	_	_	_	_	_	_
+36	F.	f.	NNP	NNP	F.	f.	NNP	37	NAME	_	_	_	_	_	_	_	_	_
+37	Peduzzi	peduzzi	NNP	NNP	Peduzzi	peduzzi	NNP	34	APPO	_	_	_	_	_	_	_	_	_
+38	.	.	.	.	.	.	.	32	P	_	_	_	_	_	_	_	_	_
+
+

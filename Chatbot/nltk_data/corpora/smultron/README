@@ -1,0 +1,15 @@
+SMULTRON Corpus Sample
+
+http://www.ling.su.se/DaLi/research/smultron/index.htm
+
+SMULTRON (Stockholm MULtilingual TReebank) is a parallel treebank developed
+by the Computational Linguistics Group at the Department of Linguistics,
+at Stockholm University. The parallel treebank contains around 1000
+sentences in English, German and Swedish. The sentences have been
+PoS-tagged and annotated with phrase structure trees. The trees have
+been aligned on sentence, phrase and word level. Additionally, the
+German and Swedish monolingual treebanks contain lemma information.
+
+The sample consists of approximately 80 sentences (8%) of the corpus,
+and is distributed with permission.
+

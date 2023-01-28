@@ -1,0 +1,302 @@
+<s id="wsj_0202.4"> 16
+0 	 2 	 S[pss]\NP 	 1 	 Bell based <XB>
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 Bell makes
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 Bell distributes <XU>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Angeles in
+5 	 4 	 N/N 	 1 	 Angeles Los
+15 	 7 	 (S[dcl]\NP)/NP 	 2 	 products makes <XU>
+15 	 9 	 (S[dcl]\NP)/NP 	 2 	 products distributes
+15 	 10 	 N/N 	 1 	 products electronic <XU>
+15 	 12 	 N/N 	 1 	 products computer <XU>
+15 	 14 	 N/N 	 1 	 products building
+<\s>
+<s id="wsj_0203.13"> 8
+2 	 0 	 NP/NP 	 1 	 those Not
+2 	 1 	 NP[nb]/N 	 1 	 those all
+2 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those who
+2 	 4 	 S[dcl]\NP 	 1 	 those wrote <XB>
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 those oppose
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 wrote who
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 changes oppose
+7 	 6 	 NP[nb]/N 	 1 	 changes the
+<\s>
+<s id="wsj_0203.21"> 32
+1 	 0 	 (S[pss]\NP)/PP 	 2 	 as Considered
+3 	 1 	 PP/NP 	 1 	 whole as
+3 	 2 	 NP[nb]/N 	 1 	 whole a
+6 	 5 	 N/N 	 1 	 Lane Mr.
+6 	 7 	 S[dcl]\NP 	 1 	 Lane said
+10 	 9 	 NP[nb]/N 	 1 	 filings the
+10 	 11 	 S[pss]\NP 	 1 	 filings required <XB>
+10 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 filings will
+10 	 21 	 S[adj]\NP 	 1 	 filings effective <XB>
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 required under
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 rules under
+15 	 13 	 NP[nb]/N 	 1 	 rules the
+15 	 14 	 N/N 	 1 	 rules proposed
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+17 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+19 	 18 	 (((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)))/(S[asup]\NP) 	 4 	 least at
+20 	 18 	 (((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)))/(S[asup]\NP) 	 3 	 as at
+21 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 effective be
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 effective as
+21 	 23 	 ((S[adj]\NP)\(S[adj]\NP))/S[frg] 	 2 	 effective if
+24 	 23 	 ((S[adj]\NP)\(S[adj]\NP))/S[frg] 	 3 	 not if
+26 	 24 	 S[frg]/(S[adj]\NP) 	 1 	 so not
+26 	 25 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 so more
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 investors for
+29 	 30 	 (S[ng]\NP)/NP 	 1 	 investors following <XB>
+31 	 30 	 (S[ng]\NP)/NP 	 2 	 transactions following
+<\s>
+<s id="wsj_0207.2"> 43
+3 	 0 	 NP[nb]/N 	 1 	 Holliger The
+3 	 1 	 N/N 	 1 	 Holliger oboist
+3 	 2 	 N/N 	 1 	 Holliger Heinz
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Holliger has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Holliger taken <XB>
+4 	 12 	 (S\S)/S[dcl] 	 1 	 has :
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken has
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 taken about
+8 	 5 	 (S[pt]\NP)/NP 	 2 	 line taken
+8 	 6 	 NP[nb]/N 	 1 	 line a
+8 	 7 	 N/N 	 1 	 line hard
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 problem about
+11 	 10 	 NP[nb]/N 	 1 	 problem the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 He commissions
+13 	 17 	 (S[dcl]\NP)/NP 	 1 	 He interprets <XU>
+13 	 22 	 (S[dcl]\NP)/NP 	 1 	 He does <XU>
+14 	 12 	 (S\S)/S[dcl] 	 2 	 commissions :
+14 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 commissions so
+17 	 12 	 (S\S)/S[dcl] 	 2 	 interprets :
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 interprets splendidly
+17 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 interprets so
+20 	 14 	 (S[dcl]\NP)/NP 	 2 	 scores commissions <XU>
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 scores interprets
+20 	 18 	 N/N 	 1 	 scores fearsome
+20 	 19 	 N/N 	 1 	 scores contemporary
+22 	 12 	 (S\S)/S[dcl] 	 2 	 does :
+22 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 does so
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 conducting does
+24 	 23 	 NP[nb]/N 	 1 	 conducting some
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he does
+27 	 32 	 (S[b]\NP)/NP 	 1 	 he play <XB>
+28 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does so
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 does n't
+30 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have does
+31 	 30 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 play to
+32 	 39 	 (S\NP)\(S\NP) 	 2 	 play over
+32 	 41 	 (S\NP)\(S\NP) 	 2 	 play over <XU>
+32 	 42 	 (S\NP)\(S\NP) 	 2 	 play again
+38 	 32 	 (S[b]\NP)/NP 	 2 	 concertos play
+38 	 33 	 NP[nb]/N 	 1 	 concertos the
+38 	 34 	 N/N 	 1 	 concertos same
+38 	 35 	 N/N 	 1 	 concertos Mozart
+38 	 37 	 N/N 	 1 	 concertos Strauss
+<\s>
+<s id="wsj_0207.5"> 57
+4 	 2 	 NP[nb]/N 	 1 	 clarinetist the
+4 	 3 	 N/N 	 1 	 clarinetist pixie-like
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 clarinetist has
+4 	 7 	 (S[pt]\NP)/NP 	 1 	 clarinetist dropped <XB>
+4 	 24 	 (S[dcl]\NP)/PP 	 1 	 clarinetist goes <XU>
+5 	 0 	 S/S 	 1 	 has Today
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 has mostly
+7 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 dropped has
+7 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dropped though
+10 	 7 	 (S[pt]\NP)/NP 	 2 	 work dropped
+10 	 8 	 NP[nb]/N 	 1 	 work the
+10 	 9 	 N/N 	 1 	 work missionary
+14 	 13 	 NP[nb]/N 	 1 	 touch a
+14 	 15 	 (NP\NP)/NP 	 1 	 touch of
+14 	 20 	 S[dcl]\NP 	 1 	 touch survives
+18 	 15 	 (NP\NP)/NP 	 2 	 Tashi of
+18 	 16 	 NP[nb]/N 	 1 	 Tashi the
+18 	 17 	 N/N 	 1 	 Tashi old
+20 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 survives though
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 survives still
+24 	 0 	 S/S 	 1 	 goes Today
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 goes now
+24 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 goes with
+25 	 24 	 (S[dcl]\NP)/PP 	 2 	 on goes
+27 	 25 	 PP/NP 	 1 	 road on
+27 	 26 	 NP[nb]/N 	 1 	 road the
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 piano with
+31 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 bass with
+35 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 show with
+35 	 33 	 NP[nb]/N 	 1 	 show a
+35 	 34 	 N/N 	 1 	 show slide
+39 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 repertoire with
+39 	 38 	 NP[nb]/N 	 1 	 repertoire a
+39 	 40 	 (NP\NP)/(S[dcl]\NP) 	 1 	 repertoire that
+39 	 41 	 S[dcl]\NP 	 1 	 repertoire ranges <XB>
+41 	 40 	 (NP\NP)/(S[dcl]\NP) 	 2 	 ranges that
+41 	 42 	 ((S\NP)\(S\NP))/NP 	 2 	 ranges from
+41 	 45 	 ((S\NP)\(S\NP))/NP 	 2 	 ranges to
+41 	 48 	 ((S\NP)\(S\NP))/NP 	 2 	 ranges to
+41 	 52 	 ((S\NP)\(S\NP))/NP 	 2 	 ranges with
+44 	 42 	 ((S\NP)\(S\NP))/NP 	 3 	 classical from
+44 	 43 	 N/N 	 1 	 classical light
+47 	 45 	 ((S\NP)\(S\NP))/NP 	 3 	 jazz to
+47 	 46 	 N/N 	 1 	 jazz light
+50 	 48 	 ((S\NP)\(S\NP))/NP 	 3 	 pop to
+50 	 49 	 N/N 	 1 	 pop light
+56 	 52 	 ((S\NP)\(S\NP))/NP 	 3 	 exceptions with
+56 	 53 	 NP[nb]/N 	 1 	 exceptions a
+56 	 54 	 N/N 	 1 	 exceptions few
+56 	 55 	 N/N 	 1 	 exceptions notable
+<\s>
+<s id="wsj_0209.13"> 19
+2 	 0 	 NP[nb]/N 	 1 	 technique A
+2 	 1 	 N/N 	 1 	 technique similar
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 technique is
+2 	 5 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 technique impossible <XB>
+2 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 technique apply <XU>
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 impossible is
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 impossible almost
+6 	 5 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to impossible
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 apply to
+8 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 to apply
+10 	 8 	 PP/NP 	 1 	 crops to
+10 	 9 	 N/N 	 1 	 crops other
+10 	 13 	 (NP\NP)/NP 	 1 	 crops as
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 13 	 (NP\NP)/NP 	 2 	 cotton as
+16 	 13 	 (NP\NP)/NP 	 2 	 soybeans as
+18 	 13 	 (NP\NP)/NP 	 2 	 rice as
+<\s>
+<s id="wsj_0214.22"> 40
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 I feel
+1 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 feel says
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 like feel
+5 	 2 	 PP/NP 	 1 	 kid like
+5 	 3 	 NP[nb]/N 	 1 	 kid a
+5 	 4 	 N/N 	 1 	 kid little
+12 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Castro says
+12 	 8 	 NP[nb]/N 	 1 	 Castro a
+12 	 9 	 N/N 	 1 	 Castro gleeful
+12 	 10 	 N/N 	 1 	 Castro Alex
+12 	 11 	 N/N 	 1 	 Castro de
+12 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Castro who
+12 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Castro has <XB>
+12 	 20 	 (S[pt]\NP)/NP 	 1 	 Castro stopped <XB>
+12 	 28 	 ((S[b]\NP)/PP)/NP 	 1 	 Castro slip <XB>
+12 	 39 	 S[pss]\NP 	 1 	 Castro autographed <XB>
+16 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 salesman says
+16 	 14 	 NP[nb]/N 	 1 	 salesman a
+16 	 15 	 N/N 	 1 	 salesman car
+16 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 salesman who
+16 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 salesman has <XB>
+16 	 20 	 (S[pt]\NP)/NP 	 1 	 salesman stopped <XB>
+16 	 28 	 ((S[b]\NP)/PP)/NP 	 1 	 salesman slip <XB>
+16 	 39 	 S[pss]\NP 	 1 	 salesman autographed <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 stopped has
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 stopped by
+23 	 20 	 (S[pt]\NP)/NP 	 2 	 workout stopped
+23 	 22 	 NP[nb]/N 	 1 	 workout a
+23 	 24 	 (NP\NP)/NP 	 1 	 workout of
+26 	 24 	 (NP\NP)/NP 	 2 	 Suns of
+26 	 25 	 NP[nb]/N 	 1 	 Suns the
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 slip to
+31 	 28 	 ((S[b]\NP)/PP)/NP 	 3 	 cards slip
+31 	 29 	 N/N 	 1 	 cards six
+31 	 30 	 N/N 	 1 	 cards Campaneris
+32 	 28 	 ((S[b]\NP)/PP)/NP 	 2 	 to slip
+35 	 32 	 PP/NP 	 1 	 Man to
+35 	 33 	 NP[nb]/N 	 1 	 Man the
+35 	 34 	 N/N 	 1 	 Man Great
+35 	 36 	 N\N 	 1 	 Man Himself
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+39 	 38 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 autographed be
+<\s>
+<s id="wsj_0242.25"> 31
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+6 	 3 	 NP/NP 	 1 	 administration neither
+6 	 4 	 NP[nb]/N 	 1 	 administration the
+6 	 5 	 N/N 	 1 	 administration Bush
+6 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 administration seem
+6 	 13 	 S[pss]\NP 	 1 	 administration moved <XB>
+9 	 3 	 NP/NP 	 1 	 experts neither
+9 	 8 	 N/N 	 1 	 experts arms-control
+9 	 10 	 (NP\NP)/NP 	 1 	 experts in
+9 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 experts seem
+9 	 13 	 S[pss]\NP 	 1 	 experts moved <XB>
+11 	 10 	 (NP\NP)/NP 	 2 	 Congress in
+12 	 1 	 S/S 	 1 	 seem far
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 moved seem
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 moved by
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 arguments by
+16 	 15 	 N/S[em] 	 1 	 that arguments
+18 	 17 	 NP[nb]/N 	 1 	 problems these
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 problems may
+18 	 20 	 (S[b]\NP)/NP 	 1 	 problems take <XB>
+19 	 16 	 S[em]/S[dcl] 	 1 	 may that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take may
+20 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 take than
+22 	 20 	 (S[b]\NP)/NP 	 2 	 time take
+22 	 21 	 N/N 	 1 	 time more
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 thrash to
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 thrash out
+28 	 27 	 N/N 	 1 	 Bush President
+28 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bush has
+28 	 30 	 S[pss]\NP 	 1 	 Bush allowed <XB>
+29 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has than
+30 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 allowed has
+<\s>
+<s id="wsj_0261.16"> 21
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+1 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are when
+5 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 proportions are
+5 	 2 	 NP/NP 	 1 	 proportions so
+5 	 3 	 NP[nb]/N 	 1 	 proportions many
+5 	 4 	 N/N 	 1 	 proportions possible
+7 	 8 	 (S[dcl]\NP)/S[qem] 	 1 	 you consider
+8 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 consider when
+9 	 8 	 (S[dcl]\NP)/S[qem] 	 2 	 how consider
+10 	 9 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 3 	 many how
+11 	 9 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 2 	 things how
+12 	 9 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 1 	 are how
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made are
+15 	 13 	 (S[pss]\NP)/PP 	 2 	 of made
+15 	 14 	 PP/PP 	 1 	 of out
+16 	 15 	 PP/NP 	 1 	 eggs of
+18 	 15 	 PP/NP 	 1 	 butter of
+20 	 15 	 PP/NP 	 1 	 milk of
+<\s>
+<s id="wsj_0267.59"> 35
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I do
+0 	 3 	 (S[b]\NP)/NP 	 1 	 I have <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+1 	 29 	 (S[dcl]\S[dcl])/NP 	 1 	 do says
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+4 	 3 	 (S[b]\NP)/NP 	 2 	 anything have
+4 	 5 	 S[adj]\NP 	 1 	 anything much <XB>
+4 	 7 	 (S[b]\NP)/NP 	 2 	 anything say <XU>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+11 	 29 	 (S[dcl]\S[dcl])/NP 	 1 	 think says
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 that 's
+13 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 's think
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 what 's
+15 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 you 're
+15 	 19 	 (S[b]\NP)/PP 	 1 	 you find <XB>
+16 	 14 	 NP/S[dcl] 	 1 	 're what
+17 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 're
+18 	 17 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+20 	 19 	 (S[b]\NP)/PP 	 2 	 from find
+21 	 20 	 PP/NP 	 1 	 everyone from
+21 	 22 	 NP\NP 	 1 	 everyone else
+21 	 25 	 PP/NP 	 1 	 everyone to <XU>
+23 	 24 	 (S[dcl]\NP)/PP 	 1 	 you talk
+24 	 27 	 (S\NP)\(S\NP) 	 2 	 talk here
+25 	 24 	 (S[dcl]\NP)/PP 	 2 	 to talk
+27 	 26 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 here up
+34 	 29 	 (S[dcl]\S[dcl])/NP 	 2 	 Peduzzi says
+34 	 30 	 N/N 	 1 	 Peduzzi local
+34 	 31 	 N/N 	 1 	 Peduzzi attorney
+34 	 32 	 N/N 	 1 	 Peduzzi Edward
+34 	 33 	 N/N 	 1 	 Peduzzi F.
+<\s>

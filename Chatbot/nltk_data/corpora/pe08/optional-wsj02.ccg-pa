@@ -1,0 +1,418 @@
+<s id="wsj_0201.1"> 19
+3 	 0 	 N/N 	 1 	 Inc. Rolls-Royce
+3 	 1 	 N/N 	 1 	 Inc. Motor
+3 	 2 	 N/N 	 1 	 Inc. Cars
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+9 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expects
+9 	 7 	 NP[nb]/N 	 1 	 sales its
+9 	 8 	 N/N 	 1 	 sales U.S.
+9 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 sales remain <XB>
+9 	 12 	 S[adj]\NP 	 1 	 sales steady <XB>
+10 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remain to
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 remain at
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 remain in
+12 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 steady remain
+15 	 14 	 (N/N)/(N/N) 	 2 	 1,200 about
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 cars at
+16 	 15 	 N/N 	 1 	 cars 1,200
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 in
+<\s>
+<s id="wsj_0203.10"> 43
+1 	 0 	 NP[nb]/N 	 1 	 changes The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 changes were
+1 	 3 	 S[pss]\NP 	 1 	 changes proposed <XB>
+2 	 24 	 (S[dcl]\S[dcl])/NP 	 1 	 were said
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 proposed were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 proposed in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 effort in
+6 	 5 	 NP[nb]/N 	 1 	 effort an
+6 	 8 	 (S[b]\NP)/NP 	 1 	 effort streamline <XB>
+6 	 12 	 (S[b]\NP)/NP 	 1 	 effort boost <XU>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 streamline to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 bureaucracy streamline
+10 	 9 	 N/N 	 1 	 bureaucracy federal
+12 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+13 	 12 	 (S[b]\NP)/NP 	 2 	 compliance boost
+13 	 14 	 (NP\NP)/NP 	 1 	 compliance by
+16 	 14 	 (NP\NP)/NP 	 2 	 executives by
+16 	 15 	 NP[nb]/N 	 1 	 executives the
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 executives who
+16 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 executives are <XB>
+16 	 20 	 (S[ng]\NP)/NP 	 1 	 executives calling <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are who
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 are really
+20 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 calling are
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 shots calling
+22 	 21 	 NP[nb]/N 	 1 	 shots the
+26 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 Lane said
+26 	 25 	 N/N 	 1 	 Lane Brian
+29 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 counsel said
+29 	 28 	 N/N 	 1 	 counsel special
+29 	 30 	 (NP\NP)/NP 	 1 	 counsel at
+32 	 31 	 NP[nb]/N 	 1 	 SEC the
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 SEC 's
+34 	 30 	 (NP\NP)/NP 	 2 	 office at
+34 	 33 	 (NP[nb]/N)\NP 	 1 	 office 's
+34 	 35 	 (NP\NP)/NP 	 1 	 office of
+34 	 39 	 (NP\NP)/(S[dcl]\NP) 	 1 	 office which
+34 	 40 	 (S[dcl]\NP)/NP 	 1 	 office proposed <XB>
+37 	 35 	 (NP\NP)/NP 	 2 	 policy of
+37 	 36 	 N/N 	 1 	 policy disclosure
+40 	 39 	 (NP\NP)/(S[dcl]\NP) 	 2 	 proposed which
+42 	 40 	 (S[dcl]\NP)/NP 	 2 	 changes proposed
+42 	 41 	 NP[nb]/N 	 1 	 changes the
+<\s>
+<s id="wsj_0204.8"> 19
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 excluded Also
+1 	 2 	 (S[dcl]\(S[pss]\NP))/(S[b]\NP) 	 1 	 excluded will
+3 	 2 	 (S[dcl]\(S[pss]\NP))/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/NP 	 2 	 investments be
+4 	 5 	 (NP\NP)/NP 	 1 	 investments in
+6 	 5 	 (NP\NP)/NP 	 2 	 companies in
+6 	 7 	 (NP\NP)/NP 	 1 	 companies with
+9 	 7 	 (NP\NP)/NP 	 2 	 business with
+9 	 8 	 N/N 	 1 	 business significant
+9 	 10 	 (S[ng]\NP)/PP 	 1 	 business stemming <XB>
+11 	 10 	 (S[ng]\NP)/PP 	 2 	 from stemming
+13 	 11 	 PP/NP 	 1 	 manufacture from
+13 	 12 	 N/N 	 1 	 manufacture weapons
+16 	 11 	 PP/NP 	 1 	 beverages from
+16 	 15 	 N/N 	 1 	 beverages alcoholic
+18 	 11 	 PP/NP 	 1 	 tobacco from
+<\s>
+<s id="wsj_0207.14"> 30
+1 	 3 	 (S[dcl]\(S[adj]\NP))\NP 	 1 	 so went
+2 	 3 	 (S[dcl]\(S[adj]\NP))\NP 	 2 	 it went
+3 	 0 	 S/S 	 1 	 went And
+3 	 4 	 (S\S)/NP 	 1 	 went through
+3 	 9 	 (S\S)/N 	 1 	 went an
+7 	 4 	 (S\S)/NP 	 2 	 half through
+7 	 5 	 NP[nb]/N 	 1 	 half the
+7 	 6 	 N/N 	 1 	 half first
+9 	 13 	 ((S\S)\(S\S))/NP 	 2 	 an of
+11 	 10 	 (N/N)/(N/N) 	 2 	 chosen ingeniously
+12 	 9 	 (S\S)/N 	 2 	 potpourri an
+12 	 11 	 N/N 	 1 	 potpourri chosen
+14 	 13 	 ((S\S)\(S\S))/NP 	 3 	 pieces of
+16 	 13 	 ((S\S)\(S\S))/NP 	 3 	 none of
+16 	 17 	 S[adj]\NP 	 1 	 none longer <XB>
+17 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 longer than
+20 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 minutes than
+20 	 19 	 N/N 	 1 	 minutes five
+22 	 13 	 ((S\S)\(S\S))/NP 	 3 	 none of
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 none that
+22 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 none would <XB>
+22 	 25 	 (S[b]\NP)/NP 	 1 	 none disturb <XB>
+22 	 27 	 (S[b]\NP)/NP 	 1 	 none challenge <XU>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 disturb would
+27 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 challenge would
+29 	 25 	 (S[b]\NP)/NP 	 2 	 listener disturb <XU>
+29 	 27 	 (S[b]\NP)/NP 	 2 	 listener challenge
+29 	 28 	 NP[nb]/N 	 1 	 listener a
+<\s>
+<s id="wsj_0209.11"> 29
+4 	 0 	 NP[nb]/N 	 1 	 seeds The
+4 	 1 	 N/N 	 1 	 seeds first
+4 	 2 	 N/N 	 1 	 seeds hybrid
+4 	 3 	 N/N 	 1 	 seeds corn
+4 	 5 	 S[pss]\NP 	 1 	 seeds produced <XB>
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 seeds using <XB>
+4 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 seeds were
+4 	 11 	 S[pss]\NP 	 1 	 seeds introduced <XB>
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 approach using
+9 	 7 	 NP[nb]/N 	 1 	 approach this
+9 	 8 	 N/N 	 1 	 approach mechanical
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 introduced were
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 introduced in
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 1930s in
+14 	 13 	 NP[nb]/N 	 1 	 1930s the
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 they yielded
+18 	 23 	 (N/N)\NP 	 2 	 as more
+19 	 18 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+20 	 18 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+22 	 20 	 PP/NP 	 1 	 % as
+22 	 21 	 N/N 	 1 	 % 20
+24 	 17 	 (S[dcl]\NP)/NP 	 2 	 corn yielded
+24 	 23 	 (N/N)\NP 	 1 	 corn more
+24 	 25 	 (NP\NP)/NP 	 1 	 corn than
+27 	 26 	 (N/N)/(N/N) 	 2 	 pollinated naturally
+28 	 25 	 (NP\NP)/NP 	 2 	 plants than
+28 	 27 	 N/N 	 1 	 plants pollinated
+<\s>
+<s id="wsj_0239.42"> 24
+0 	 5 	 (S[dcl]\S[wq])/NP 	 1 	 What hissed
+1 	 0 	 S[wq]/(S[q]/NP) 	 1 	 's What
+2 	 1 	 (S[q]/(S[ng]\NP))/NP 	 2 	 he 's
+2 	 3 	 (S[ng]\NP)/NP 	 1 	 he doing <XB>
+3 	 1 	 (S[q]/(S[ng]\NP))/NP 	 1 	 doing 's
+7 	 5 	 (S[dcl]\S[wq])/NP 	 2 	 companion hissed
+7 	 6 	 NP[nb]/N 	 1 	 companion my
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 companion who
+7 	 10 	 (S[dcl]\NP)/NP 	 1 	 companion was <XB>
+7 	 20 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 companion whose <XU>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+15 	 10 	 (S[dcl]\NP)/NP 	 2 	 member was
+15 	 11 	 NP[nb]/N 	 1 	 member the
+15 	 12 	 N/N 	 1 	 member only
+15 	 13 	 N/N 	 1 	 member other
+15 	 14 	 N/N 	 1 	 member English-speaking
+15 	 16 	 (NP\NP)/NP 	 1 	 member of
+18 	 16 	 (NP\NP)/NP 	 2 	 convention of
+18 	 17 	 NP[nb]/N 	 1 	 convention the
+21 	 20 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 knuckles whose
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 knuckles were <XB>
+21 	 23 	 S[adj]\NP 	 1 	 knuckles white <XB>
+22 	 20 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 were whose
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 white were
+<\s>
+<s id="wsj_0244.5"> 19
+0 	 1 	 S[pss]\NP 	 1 	 Those employed <XB>
+0 	 6 	 S[dcl]\NP 	 1 	 Those increased
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 employed in
+5 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 programs in
+5 	 3 	 N/N 	 1 	 programs state-funded
+5 	 4 	 N/N 	 1 	 programs special
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 increased by
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 increased in
+6 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 increased said
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 7,400 by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 65,200 to
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+14 	 12 	 NP[nb]/N 	 1 	 period the
+14 	 13 	 N/N 	 1 	 period same
+17 	 16 	 NP[nb]/N 	 1 	 Directorate the
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 Directorate said
+<\s>
+<s id="wsj_0245.1"> 30
+1 	 0 	 N/N 	 1 	 Co. Coca-Cola
+1 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Co. aiming <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 Co. boost <XB>
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to aiming
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 volume boost
+7 	 6 	 N/N 	 1 	 volume soft-drink
+7 	 8 	 (NP\NP)/NP 	 1 	 volume in
+9 	 8 	 (NP\NP)/NP 	 2 	 Singapore in
+12 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+12 	 14 	 (S[ng]\NP)/NP 	 1 	 it discussing <XB>
+13 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 discussing is
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 discussing with
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 venture discussing
+17 	 15 	 NP[nb]/N 	 1 	 venture a
+17 	 16 	 N/N 	 1 	 venture joint
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Ltd. with
+22 	 19 	 N/N 	 1 	 Ltd. Fraser
+22 	 20 	 N/N 	 1 	 Ltd. &
+22 	 21 	 N/N 	 1 	 Ltd. Neave
+26 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 franchisee with
+26 	 24 	 NP[nb]/N 	 1 	 franchisee its
+26 	 25 	 N/N 	 1 	 franchisee bottling
+26 	 27 	 (NP\NP)/NP 	 1 	 franchisee in
+29 	 27 	 (NP\NP)/NP 	 2 	 country in
+29 	 28 	 NP[nb]/N 	 1 	 country that
+<\s>
+<s id="wsj_0246.1"> 34
+2 	 0 	 N/N 	 1 	 Inc. AMERICAN
+2 	 1 	 N/N 	 1 	 Inc. BRANDS
+2 	 5 	 NP\NP 	 1 	 Inc. Greenwich
+2 	 7 	 NP\NP 	 1 	 Inc. Conn. <XU>
+2 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 Greenwich Old
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 it increased
+10 	 25 	 ((S[adj]\NP)/PP)/NP 	 1 	 it payable <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 increased said
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+11 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+15 	 11 	 (S[dcl]\NP)/NP 	 2 	 % increased
+15 	 12 	 NP[nb]/N 	 1 	 % its
+15 	 13 	 N/N 	 1 	 % quarterly
+15 	 14 	 N/N 	 1 	 % 11
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+18 	 17 	 N/N 	 1 	 cents 68
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+23 	 22 	 N/N 	 1 	 cents 61
+26 	 25 	 ((S[adj]\NP)/PP)/NP 	 3 	 Dec. payable
+27 	 26 	 N/N[num] 	 1 	 1 Dec.
+28 	 25 	 ((S[adj]\NP)/PP)/NP 	 2 	 to payable
+29 	 28 	 PP/NP 	 1 	 stock to
+29 	 30 	 (NP\NP)/NP 	 1 	 stock of
+29 	 32 	 (NP\NP)/N[num] 	 1 	 stock Nov.
+31 	 30 	 (NP\NP)/NP 	 2 	 record of
+33 	 32 	 (NP\NP)/N[num] 	 2 	 10 Nov.
+<\s>
+<s id="wsj_0254.24"> 17
+0 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 Here are
+4 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 contributions are
+4 	 2 	 NP[nb]/N 	 1 	 contributions the
+4 	 3 	 N/N 	 1 	 contributions net
+4 	 5 	 (NP\NP)/NP 	 1 	 contributions of
+7 	 5 	 (NP\NP)/NP 	 2 	 components of
+7 	 6 	 NP[nb]/N 	 1 	 components the
+7 	 8 	 (NP\NP)/NP 	 1 	 components of
+11 	 9 	 NP[nb]/N 	 1 	 Department the
+11 	 10 	 N/N 	 1 	 Department Commerce
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Department 's
+13 	 8 	 (NP\NP)/NP 	 2 	 index of
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 index 's
+13 	 14 	 (NP\NP)/NP 	 1 	 index of
+16 	 14 	 (NP\NP)/NP 	 2 	 indicators of
+16 	 15 	 N/N 	 1 	 indicators leading
+<\s>
+<s id="wsj_0257.32"> 24
+0 	 2 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 Seems because
+1 	 0 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to Seems
+3 	 4 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 1 	 it 's
+4 	 2 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 's because
+5 	 4 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 3 	 possible 's
+6 	 4 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 2 	 that 's
+8 	 7 	 NP[nb]/N 	 1 	 CIA the
+8 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 CIA were
+8 	 16 	 S[adj]\NP 	 1 	 CIA interested <XB>
+13 	 10 	 NP[nb]/N 	 1 	 Agency the
+13 	 11 	 N/N 	 1 	 Agency National
+13 	 12 	 N/N 	 1 	 Agency Security
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Agency were
+13 	 16 	 S[adj]\NP 	 1 	 Agency interested <XB>
+14 	 6 	 S[em]/S[dcl] 	 1 	 were that
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested were
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 interested more
+16 	 17 	 (((S[adj]\NP)\(S[adj]\NP))/(S[b]\NP))/NP 	 2 	 interested than
+18 	 17 	 (((S[adj]\NP)\(S[adj]\NP))/(S[b]\NP))/NP 	 4 	 they than
+18 	 19 	 S[b]\NP 	 1 	 they let <XB>
+19 	 17 	 (((S[adj]\NP)\(S[adj]\NP))/(S[b]\NP))/NP 	 3 	 let than
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 let on
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 let to
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Stoll to
+23 	 22 	 N/N 	 1 	 Stoll Mr.
+<\s>
+<s id="wsj_0257.22"> 40
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 discovering After
+2 	 1 	 (S[ng]\NP)/S[em] 	 2 	 that discovering
+4 	 3 	 NP[nb]/N 	 1 	 hacker the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 hacker had
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 hacker taken <XB>
+5 	 2 	 S[em]/S[dcl] 	 1 	 had that
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken had
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 taken over
+10 	 6 	 (S[pt]\NP)/NP 	 2 	 account taken
+10 	 8 	 NP[nb]/N 	 1 	 account the
+10 	 9 	 N/N 	 1 	 account dormant
+10 	 11 	 (NP\NP)/NP 	 1 	 account of
+14 	 11 	 (NP\NP)/NP 	 2 	 user of
+14 	 12 	 NP[nb]/N 	 1 	 user a
+14 	 13 	 N/N 	 1 	 user legitimate
+14 	 15 	 (S[pss]\NP)/NP 	 1 	 user named <XB>
+17 	 15 	 (S[pss]\NP)/NP 	 2 	 Sventek named
+17 	 16 	 N/N 	 1 	 Sventek Joe
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 he rigged
+20 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 rigged After
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 rigged up
+24 	 20 	 (S[dcl]\NP)/NP 	 2 	 system rigged
+24 	 22 	 NP[nb]/N 	 1 	 system an
+24 	 23 	 N/N 	 1 	 system alarm
+24 	 26 	 (NP\NP)/NP 	 1 	 system including
+29 	 26 	 (NP\NP)/NP 	 2 	 beeper including
+29 	 27 	 NP[nb]/N 	 1 	 beeper a
+29 	 28 	 N/N 	 1 	 beeper portable
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 alert to
+32 	 34 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 alert when
+33 	 32 	 (S[b]\NP)/NP 	 2 	 him alert
+35 	 36 	 (S[dcl]\NP)/PP 	 1 	 Sventek came
+36 	 34 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 came when
+37 	 36 	 (S[dcl]\NP)/PP 	 2 	 on came
+39 	 37 	 PP/NP 	 1 	 line on
+39 	 38 	 NP[nb]/N 	 1 	 line the
+<\s>
+<s id="wsj_0267.58"> 16
+2 	 1 	 NP[nb]/N 	 1 	 one no
+2 	 3 	 (NP\NP)/NP 	 1 	 one with
+2 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 one would
+2 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 one allow <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 complaint with
+5 	 4 	 NP[nb]/N 	 1 	 complaint a
+5 	 6 	 (NP\NP)/NP 	 1 	 complaint about
+8 	 6 	 (NP\NP)/NP 	 2 	 judge about
+8 	 7 	 NP[nb]/N 	 1 	 judge the
+9 	 0 	 S/S 	 1 	 would And
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow would
+12 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 name allow
+12 	 11 	 NP[nb]/N 	 1 	 name his
+12 	 15 	 S[pss]\NP 	 1 	 name printed <XB>
+13 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 printed be
+<\s>
+<s id="wsj_0282.6"> 26
+1 	 0 	 (N/N)/(N/N) 	 2 	 stable More
+2 	 1 	 N/N 	 1 	 industries stable
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 industries were
+2 	 5 	 (S[b]\NP)/NP 	 1 	 industries build <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to were
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 build for
+5 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 build as
+8 	 7 	 (N/N)/(N/N) 	 2 	 viable economically
+9 	 5 	 (S[b]\NP)/NP 	 2 	 infrastructure build
+9 	 6 	 NP[nb]/N 	 1 	 infrastructure an
+9 	 8 	 N/N 	 1 	 infrastructure viable
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 movement for
+13 	 11 	 NP[nb]/N 	 1 	 movement the
+13 	 12 	 N/N 	 1 	 movement Moon
+13 	 14 	 (NP\NP)/NP 	 1 	 movement in
+16 	 14 	 (NP\NP)/NP 	 2 	 America in
+16 	 15 	 N/N 	 1 	 America North
+19 	 20 	 S[dcl]\NP 	 1 	 they had
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had as
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Japan in
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Korea in
+25 	 24 	 N/N 	 1 	 Korea South
+<\s>
+<s id="wsj_0284.25"> 35
+2 	 0 	 N/N 	 1 	 Austin Sidley
+2 	 1 	 N/N 	 1 	 Austin &
+2 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Austin are
+2 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Austin scheduled <XB>
+2 	 26 	 (S[b]\NP)/NP 	 1 	 Austin announce <XB>
+8 	 4 	 NP[nb]/N 	 1 	 firm a
+8 	 5 	 N/N 	 1 	 firm leading
+8 	 6 	 N/N 	 1 	 firm Chicago-based
+8 	 7 	 N/N 	 1 	 firm law
+8 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 firm are
+8 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 firm scheduled <XB>
+8 	 26 	 (S[b]\NP)/NP 	 1 	 firm announce <XB>
+13 	 11 	 N/N 	 1 	 Crisp Ashurst
+13 	 12 	 N/N 	 1 	 Crisp Morris
+13 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Crisp are
+13 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Crisp scheduled <XB>
+13 	 26 	 (S[b]\NP)/NP 	 1 	 Crisp announce <XB>
+18 	 15 	 NP[nb]/N 	 1 	 firm a
+18 	 16 	 N/N 	 1 	 firm midsized
+18 	 17 	 N/N 	 1 	 firm London
+18 	 19 	 (NP\NP)/NP 	 1 	 firm of
+18 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 firm are
+18 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 firm scheduled <XB>
+18 	 26 	 (S[b]\NP)/NP 	 1 	 firm announce <XB>
+20 	 19 	 (NP\NP)/NP 	 2 	 solicitors of
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scheduled are
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 scheduled today
+25 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 announce to
+27 	 26 	 (S[b]\NP)/NP 	 2 	 plans announce
+27 	 29 	 (S[b]\NP)/NP 	 1 	 plans open <XB>
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+29 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 open in
+32 	 29 	 (S[b]\NP)/NP 	 2 	 office open
+32 	 30 	 NP[nb]/N 	 1 	 office a
+32 	 31 	 N/N 	 1 	 office joint
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 Tokyo in
+<\s>

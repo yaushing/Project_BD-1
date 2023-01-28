@@ -1,0 +1,102 @@
+PE08: Cross-Framework and Cross-Domain Parser Evaluation Shared Task
+====================================================================
+
+See http://www-tsujii.is.s.u-tokyo.ac.jp/pe08-st/ for details of the task.
+
+
+
+Data release 3
+---------------
+
+Updates
+~~~~~~~
+
+April 20, 2008:
+- Added gold-standard Stanford dependencies to Set 1.
+- Added automatically generated Stanford dependencies to Set 2.
+
+April 8, 2008:
+- Added PARC dependencies to Set 1.
+- Revised Set 1 GRs
+
+
+
+WSJ data sets (release 3)
+-------------------------
+
+This distribution contains the two data sets based
+on Wall Street Journal sentences.  The first is the
+required set (10 sentences).  The second set is 
+optional (15 sentences).
+
+Set 1 (required)
+10 WSJ sentences 
+~~~~~~~~~~~~~~~~
+
+This set contains 10 sentences from the Wall Street Journal portion of
+the Penn Treebank. The following representation formats are provided
+(thanks to the owners/providers of the data, shown in parenthesis):
+ 
+- Penn Treebank (PTB): phrase structure trees. (LDC).
+
+- CoNLL-2008 shared task (CoNLL08): labeled syntactic dependencies
+  extracted from the PTB annotations, and predicate-argument
+  dependencies extracted from PropBank and NomBank. (LDC).
+
+- RASP Grammatical Relations (GR): the Grammatical Relation scheme
+  proposed by Briscoe, Carroll and colleagues for parser evaluation.
+  (Ted Briscoe and Yusuke Miyao).
+
+- UTokyo HPSG Treebank Predicate-Argument structures (HPSG-PA):
+  predicate-argument dependencies extracted from the University of
+  Tokyo HPSG Treebank.  (Yusuke Miyao and TsujiiLab at the University
+  of Tokyo).
+
+- CCGBank Predicate-Argument structures (CCG-PA): predicate-argument
+  dependencies extracted from the CCGBank. (LDC).
+
+- PARC Dependency structures (PARC): Dependencies in the scheme used
+  by King et al. in the PARC 700 Dependency Bank.  (Tracy Holloway
+  King and PARC).
+
+- Stanford Dependencies (Stanford): Dependencies in the scheme
+  designed by de Marneffe et al. for representation of typed
+  dependencies from PTB structures.  (Marie-Catherine de Marneffe).
+
+
+Set 2 (optional)
+15 WSJ sentences
+~~~~~~~~~~~~~~~~
+
+This set contains an additional 15 sentences from the Wall Street
+Journal portion of the Penn Treebank.
+
+Annotation is provided in the same formats as above, except for PARC
+(and Stanford dependencies were generated automatically from PTB and
+may contain errors).
+
+
+Note regarding the PARC annotation
+----------------------------------
+
+For more information on the PARC dependency representation,
+including the meaning of the features and labels used in the
+annotation, please see the documentation for the PARC700
+corpus at:
+
+http://www2.parc.com/isl/groups/nltt/fsbank/default.html
+
+The files in this distribution contain sentences that are
+not in the PARC700 corpus.  They are more likely to contain
+annotation errors than the PARC700 corpus, since they were
+not doubly annotated.
+
+
+
+For more information, please contact 
+
+Kenji Sagae
+Institute for Creative Technologies
+University of Southern California
+
+sagae@usc.edu
