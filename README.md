@@ -33,5 +33,6 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 15. tqdm v4.64.1
 16. PyObjCTools v9.0.1
 17. pyttsx3 v2.9.0
-
 </samp>
+
+download important files [here](https://download-directory.github.io/?url=https://github.com/yaushing/Project_BD-1/tree/main/Chatbot) Note: Ensure you have python 3.9.12 when you run bot.py. Or have jupyter notebook to run bot.ipynb.
