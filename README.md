@@ -1,6 +1,3 @@
-# **The goal is a robot with a chatbot and that can answer commands**
-## This is the chatbot readme
-
 ## An offline untrained chatbot with some training data.
 
 <samp>
@@ -19,25 +16,21 @@ Hi there. This is a chatbot template for offline chatbots. Export a whastapp .tx
 <br/>
 *Delete these files to retrain model from scratch (Get rid of unwanted data)*<br/>
 **3rd Party Software in files**
-1. chatterbot v1.0.4
-2. chatterbot corpus v1.2.0
-3. click v8.1.3
-4. joblib v1.1.0
-5. mathparse v0.1.2
-6. nltk v3.7
-7. Pint v0.19.2
-8. pymongo v3.12.3
-9. python-dateutil v2.7.5
-10. pytz v2022.2.1
-11. PyYAML v3.13
-12. regex v2022.9.11
-13. six v1.16.0
-14. SQLAlchemy v1.2.19
-15. tqdm v4.64.1
-16. PyObjCTools v9.0.1
-17. pyttsx3 v2.9.0
+1. click v8.1.3
+2. joblib v1.1.0
+3. mathparse v0.1.2
+4. nltk v3.7
+5. Pint v0.19.2
+6. pymongo v3.12.3
+7. python-dateutil v2.7.5
+8. pytz v2022.2.1
+9. PyYAML v3.13
+10. regex v2022.9.11
+11. six v1.16.0
+12. SQLAlchemy v1.2.19
+13. tqdm v4.64.1
+14. PyObjCTools v9.0.1
+15. pyttsx3 v2.9.0
 </samp>
 
 download important files [here](https://download-directory.github.io/?url=https://github.com/yaushing/Project_BD-1/tree/main/Chatbot) Note: Ensure you have python 3.9.12 when you run bot.py. Or have jupyter notebook to run bot.ipynb.
-
-google drive files [here](https://drive.google.com/drive/folders/1n5xFQ4yWR1BsTRHwFPxMJ7VsHFLtDvt1) Note: this includes the Logs
