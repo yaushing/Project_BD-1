@@ -510,8 +510,8 @@ if __name__ == '__main__':
 
 # Beep Sound Player
 def transsent(sentence):
-        sdir = "../Chatbot/sylsound/"
-        sdirb = "../Chatbot/sylsound/base/"
+        sdir = "../Code/sylsound/"
+        sdirb = "../Code/sylsound/base/"
         punc = list("""!@#$%^&*()_+{}|:"<>?-=[]\;',./""")
         sentenced = ""
         for letter in sentence:
@@ -634,5 +634,3 @@ while True:
         else:
             engine.say(str(ans))
             engine.runAndWait()
-
-        
