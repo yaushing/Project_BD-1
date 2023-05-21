@@ -4,8 +4,8 @@
 
 Hi there. This is a chatbot template for offline chatbots. Export a whastapp .txt file as chat.txt to get the training data
 
-**USE IDLE OR JUPYTER NOTEBOOK TO RUN -- DO NOT USE VS-CODE**
-*I think technically you could use an online compiler but I'm not sure why you would given that the point is for this to be OFFLINE*
+**USE IDLE OR JUPYTER NOTEBOOK TO RUN -- DO NOT USE VS-CODE -- *<br>
+*I think technically you could use an online compiler like [repl](https://replit.com/) but I'm not sure why you would given that the point is for this to be OFFLINE*
 
 ### NOTICE
 *Once having started training the training will be stored in the following 3 files:*
